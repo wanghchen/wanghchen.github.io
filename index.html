@@ -1,9 +1,7 @@
-
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 
 <head>
-
   <title>Huanchen Wang's Homepage</title>
 
   <meta charset="UTF-8">
@@ -13,257 +11,224 @@
   <meta name="description" content="This is Huanchen Wang's home page, He is a first-year PhD student under CityU-SUSTech Joint PhD Programme, supervised by Prof. Zhicong Lu and Prof. Yuxin Ma.">
   <meta name="keywords" content="Huanchen Wang, 王焕辰, wanghuanchen, Huanchen, Wang, Visualization, Human-Computer Interaction, CityU, SUSTech">
   <meta name="author" content="Huanchen Wang" />
-
-  <link rel="stylesheet" href="w3.css">
-
-  <style>
-  .w3-sidebar a {font-family: "Roboto", sans-serif}
-  body,h1,h2,h3,h4,h5,h6,.w3-wide {font-family: "Montserrat", sans-serif;}
-  </style>
-
-  <link rel="icon" type="image/png" href="images/icon.png">
-  <!--
-  <script src="jquery.min.js"></script>
-  <script>
-  $(document).ready(function(){
-    // Add smooth scrolling to all links
-    $("a").on('click', function(event) {
-      // Make sure this.hash has a value before overriding default behavior
-      if (this.hash !== "") {
-        // Prevent default anchor click behavior
-        event.preventDefault();
-        // Store hash
-        var hash = this.hash;
-        // Using jQuery's animate() method to add smooth page scroll
-        // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
-        $('html, body').animate({
-          scrollTop: $(hash).offset().top
-        }, 800, function(){
-          // Add hash (#) to URL when done scrolling (default click behavior)
-          window.location.hash = hash;
-        });
-      } // End if
-    });
-  });
-  </script>
-  //-->
+  <link rel="stylesheet" type="text/css" href="./assets/style.css">
+  <link rel="icon" type="image/png" href="assets/icon.png">
 
 </head>
 
+    <body>
+        <div class="wrap">
+            <div id="header">
+                <h1 id="headername">Huanchen Wang</h1>
+                <p id="introduction">
+                <br>
+                <a href="https://www.cs.cityu.edu.hk/">Department of Computer Science</a><br />
+                <a href="https://www.cityu.edu.hk/">City University of Hong Kong</a><br />
+                Tat Chee Avenue, Hong Kong SAR, China<br /><br />
+                <a href="http://cse.sustech.edu.cn/en/">Department of Computer Science and Engineering</a><br />
+                <a href="http://www.sustech.edu.cn/en/">Southern University of Science and Technology</a><br />
+                Xueyuan Avenue, Shenzhen, Guangdong, China<br /><br />
+                Email: huancwang2-c@my.cityu.edu.hk<br />
+                12250062@mail.sustech.edu.cn<br />
+                </p>
+                <div id="nav">
+                    <ul>
+                        <li><a href="/#publication">Publication</a></li>
+                        <li><a href="/#services">Services</a></li>
+                        <li><a href="/#teaching">Teaching Experience</a></li>
+                        <li><a href="/#awards">Awards</a></li>
+                    </ul>
+                </div>
+                <div id="header-image">
+                    <a href="https://scholar.google.com/citations?user=bThdf0MAAAAJ&hl=en" style="text-align: right; display: inline-block">
+                        <img class="icon" src="./assets/scholar_logo.jpg" alt="google scholar" title="Google Scholar"
+                            height="24" width="24"></a>
+                        <a href="https://github.com/wanghchen" target="_blank"  style="text-align: right; display: inline-block">
+                        <img class="icon" src="./assets/github_logo.jpg" alt="github" title="github" height="24"
+                            width="24"></a>
+                        <a href="https://wanghc1999@gmail.com" target="_blank"  style="text-align: right; display: inline-block">
+                        <img class="icon" src="./assets/gmail_logo.png" alt="gmail" title="gmail"
+                            height="24" width="24"></a> 
+                </div>
 
-<body class="w3-content" style="max-width:1000px">
-
-<!-- Sidebar/menu -->
-<nav class="w3-sidebar w3-bar-block w3-light-blue w3-collapse w3-top w3-right" style="z-index:3;width:150px" id="mySidebar">
-  <div class="w3-container w3-display-container w3-padding-16">
-    <h3><b class="w3-text-white">MENU</b></h3>
-  </div>
-  <div class="w3-padding-64 w3-text-light-grey w3-large" style="font-weight:bold">
-    <a href="#home" class="w3-bar-item w3-button">Home</a>
-    <a href="#aboutme" class="w3-bar-item w3-button">About Me</a>
-    <!-- <a href="#news" class="w3-bar-item w3-button">News</a>
-    <a href="#projects" class="w3-bar-item w3-button">Projects</a>
-    <a href="#talks" class="w3-bar-item w3-button">Talks</a> -->
-    <a href="#publications" class="w3-bar-item w3-button">Publications</a>
-    <a href="#teachingExperience" class="w3-bar-item w3-button">Teaching Experience</a>
-    <a href="#service" class="w3-bar-item w3-button">Services</a>
-    <a href="#award" class="w3-bar-item w3-button">Awards</a>
-  </div>
-</nav>
-
-<!-- Top menu on small screens -->
-<header class="w3-bar w3-top w3-hide-large w3-light-blue w3-xlarge">
-  <div class="w3-bar-item w3-padding-24">MENU</div>
-  <a href="javascript:void(0)" class="w3-bar-item w3-button w3-padding-24 w3-right"  style="font-stretch: extra-expanded;" onclick="w3_open()"><b>≡</b></a>
-  </div>
-</header>
-
-<!-- Overlay effect when opening sidebar on small screens -->
-<div class="w3-overlay w3-hide-large" onclick="w3_close()" style="cursor:pointer" title="close side menu" id="myOverlay"></div>
-
-<!-- !PAGE CONTENT! -->
-<div class="w3-main" style="margin-left:150px">
-
-  <!-- Push down content on small screens -->
-  <div class="w3-hide-large" style="margin-top:83px"></div>
-
-<!-- The Home Section -->
-<div class="w3-container w3-center w3-padding-32" id="home">
-      <h1 style="border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:-1px;max-width:600px">Huanchen Wang 王焕辰</h1>
-      <table  style="width: 100%;" class="imgtable">
-        <tr>
-        <td   style="border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:-1px;width:auto;height:auto;max-width:100%">
-          <p><b>
-                  <font face="Arial" size="4">First-year Ph.D. Student</font>
-              </b></p> <br />
-          <p><a href="https://www.cs.cityu.edu.hk/">Department of Computer Science</a><br />
-              <a href="https://www.cityu.edu.hk/">City University of Hong Kong</a><br />
-              Tat Chee Avenue, Hong Kong SAR, China<br /><br />
-              <a href="http://cse.sustech.edu.cn/en/">Department of Computer Science and Engineering</a><br />
-              <a href="http://www.sustech.edu.cn/en/">Southern University of Science and Technology</a><br />
-              Xueyuan Avenue, Shenzhen, Guangdong, China<br /><br />
-              Email: huancwang2-c@my.cityu.edu.hk<br />
-              12250062@mail.sustech.edu.cn<br />
-          </p>
-          <p>
-              <a href="https://scholar.google.com/citations?user=bThdf0MAAAAJ&hl=en" target="_blank">
-                  <img class="icon" src="images/scholar_logo.jpg" alt="google scholar" title="Google Scholar"
-                      height="24" width="24"></a>
-              <a href="https://github.com/wanghchen" target="_blank">
-                  <img class="icon" src="images/github_logo.jpg" alt="github" title="github" height="24"
-                      width="24"></a>
-              <a href="https://wanghc1999@gmail.com" target="_blank">
-                  <img class="icon" src="images/gmail_logo.png" alt="gmail" title="gmail"
-                      height="24" width="24"></a>
-          </p>
-        </td>
-        <td >
-          <img  style="width:auto;height:auto; max-width: 100%; margin-right: -1px;" alt="profile photo" src="images/huanchen_w_teacherMao.jpg">
-        </td>
-        </tr>
-      </table>
-</div>
-
-<!-- The About Me Section -->
-  <div class="w3-container w3-light-grey w3-padding-32" id="aboutme">
-    <h2>About Me</h2>
-    <p  class="w3-justify" >
-      My name is Huanchen Wang. I am a first-year PhD student in the Department of Computer Science, City University of Hong
-      Kong
-      (<a href="https://www.cityu.edu.hk/">CityU</a>)  from Sep. 2022  under <a
-          href="https://www.cityu.edu.hk/pia/page.aspx?p=PhD_Joint_Degree_Programmes">CityU-SUSTech
-          Joint PhD Programme</a>, supervised by Prof. <a href="https://www.cs.cityu.edu.hk/~zhiconlu/">Zhicong Lu</a>
-      (CityU) and Prof. <a href="https://mayuxin.me/"> Yuxin Ma </a>(SUSTech). I am a member of DEER Lab and DVA Lab.
-      </p>
-    <p  class="w3-justify">I received my BEng degree from the Department of Computer Science and
-        Engineering, Southern University of Science and Technology (<a
-            href="https://www.sustech.edu.cn/">SUSTech</a>) in July, 2022. </p>
-    <p  class="w3-justify">My current research mainly focuses on the area of Visual Analytics and Social Computing . 
-  </div>
- <!-- The Publications Section -->
-  <div class="w3-container w3-padding-32" id="publications">
-    <h2>Publications</h2>
-      <!-- <p class="w3-left-align" style="line-height:200%">
-        I'm interested in devleoping <strong>efficient models</strong> for computer vision (e.g. classification, detection, and super-resolution) using pruning, quantization, distilaltion, NAS, etc. 
-      </p> -->
-    <h4> Conference Papers:</h4>
-    <ol>
-
-      <p>
-      <li><strong>Understanding Communication Strategies and Viewer Engagement with Science Knowledge Videos on Bilibili</strong>
-      <br>
-      <a class="author-link" href="https://scholars.cityu.edu.hk/en/persons/yu-zhang(7991b232-8b7b-4043-8405-756ffd76fed5).html" target="_blank" rel="noopener">Yu Zhang</a>, 
-      <a class="author-link" href="https://hechangyang.com/" target="_blank" rel="noopener">Changyang He</a>,
-      <strong>Huanchen Wang</strong>
-      <a class="author-link" href="https://www.cs.cityu.edu.hk/~zhiconlu/" target="_blank" rel="noopener">Zhicong Lu</a>
-      <br>
-      <em>In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems</em> [<a style="color: #447ec9" href="/data/2023 Chi BiliSci.pdf">pdf</a>] [<a style="color: #447ec9" href="/data/2023 Chi BiliSci.bib">bib</a>]
-
-      <p>
-      <li><strong>A Geomagnetic Sensor Dataset for Traffic Flow Prediction</strong>
-      <br>
-      <strong>Huanchen Wang</strong>*, 
-      <a class="author-link" href="https://scholar.google.com/citations?user=_PKwzTwAAAAJ&hl=en" target="_blank" rel="noopener">Quanjun Chen</a>*, 
-      Zheng Dong, 
-      <a class="author-link" href="https://faculty.sustech.edu.cn/?tagid=songx&iscss=1&snapid=1&orderby=date&go=1" target="_blank" rel="noopener">Xuan Song</a>,
-      Hao Tian, Donglong Yang, Manxia Liu
-      <br>
-      (* = equal contribution)
-      <br>
-      <em>In 2022 IEEE International Conference on Big Data (Big Data)</em> [<a style="color: #447ec9" href="/data/2022 IEEE BigData Geomagnetic.pdf">pdf</a>] [<a style="color: #447ec9" href="/data/2022 IEEE BigData Geomagnetic.pdf">bib</a>]
-      </p>
-
-      <p>
-      <li><strong>Learning Latent Road Correlations from Trajectories</strong>
-      <br>
-       Zheng Dong,
-       <a class="author-link" href="https://scholar.google.com/citations?user=_PKwzTwAAAAJ&hl=en" target="_blank" rel="noopener">Quanjun Chen</a>, 
-       <a class="author-link" href="https://www.renhejiang.com/" target="_blank" rel="noopener">Renhe Jiang</a>,
-       <strong>Huanchen Wang</strong>, 
-       <a class="author-link" href="https://faculty.sustech.edu.cn/?tagid=songx&iscss=1&snapid=1&orderby=date&go=1" target="_blank" rel="noopener">Xuan Song</a>,
-       Hao Tian
-      <br>
-      <em>In 2022 IEEE International Conference on Big Data (Big Data)</em> [<a style="color: #447ec9" href="/data/2022 IEEE BigData Road.pdf">pdf</a>] [<a style="color: #447ec9" href="/data/2022 IEEE BigData Road.bib">bib</a>]
-      </p>
-
-    </ol>
-  </div>
-
-<!-- The Services Section -->
-  <div class="w3-container w3-light-grey w3-padding-32" id="service">
-    <h2>Services</h2>
-      <p><li> 2023 &emsp; Reviewer for CHI-LBW</p>
-  </div>
-
-<!-- The Teaching Experience Section -->
-  <div class="w3-container w3-padding-32" id="teachingExperience">
-    <h2>Teaching Experience</h2>
-      <p><li> CS2303 Data Structures for Media (Spring 2023, CityU)</p>
-      <p><li> JC2066 IT Professionals: Ethical, Legal and Social Issues (Fall 2022, CityU)</p>
-  </div>
-
-  <!-- The Awards Section -->
-  <div class="w3-container w3-light-grey w3-padding-32" id="award">
-    <h2>Awards</h2>
-    <p><li> Postgraduate Scholarship, SUSTech & CityU, 2022-2026</p>
-    <p><li> Third-class Outstanding Freshmen Scholarship, SUSTech, 2018</p>
-     
-  </div>  
-
-  <div class="w3-center w3-padding-24">
-
-    This webpage design was "stolen" from Yunhe Wang in this <a href="https://github.com/YunheWang/HomePage">source code</a>. Special thanks to him!
- <br>
-  No.
-<!-- Default Statcounter code for My own homepage https://wanghchen.github.io/
--->
-<script type="text/javascript">
-  var sc_project=12885067; 
-  var sc_invisible=0; 
-  var sc_text=2;
-  var sc_security="7f9bac45"; 
-  var scJsHost = "https://";
-  document.write("<sc"+"ript type='text/javascript' src='" + scJsHost+
-  "statcounter.com/counter/counter.js'></"+"script>");
-  </script> Visitor Since Feb 2023. Powered by <a href="https://www.w3schools.com/w3css/default.asp" title="W3.CSS" target="_blank" class="w3-hover-opacity">w3.css</a>
-  <noscript><div class="statcounter"><a title="Web Analytics Made Easy -
-  Statcounter" href="https://statcounter.com/" target="_blank"><img
-  class="statcounter" src="https://c.statcounter.com/12885067/0/7f9bac45/0/"
-  alt="Web Analytics Made Easy - Statcounter"
-  referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
-  <!-- End of Statcounter Code -->
-
-  </div>
-
-  <!-- End page content -->
-</div>
-
-<script>
-// Accordion 
-function myAccFunc() {
-  var x = document.getElementById("demoAcc");
-  if (x.className.indexOf("w3-show") == -1) {
-    x.className += " w3-show";
-  } else {
-    x.className = x.className.replace(" w3-show", "");
-  }
-}
-
-// Click on the "Jeans" link on page load to open the accordion for demo purposes
-document.getElementById("myBtn").click();
+            </div>
+            
 
 
-// Open and close sidebar
-function w3_open() {
-  document.getElementById("mySidebar").style.display = "block";
-  document.getElementById("myOverlay").style.display = "block";
-}
- 
-function w3_close() {
-  document.getElementById("mySidebar").style.display = "none";
-  document.getElementById("myOverlay").style.display = "none";
-}
-</script>
+            <div class="content">
+                <hr>
+                <p >
+                    My name is Huanchen Wang. I am a first-year PhD student in the Department of Computer Science, City University of Hong
+                    Kong
+                    (<a href="https://www.cityu.edu.hk/">CityU</a>)  from Sep. 2022  under <a
+                        href="https://www.cityu.edu.hk/pia/page.aspx?p=PhD_Joint_Degree_Programmes">CityU-SUSTech
+                        Joint PhD Programme</a>, supervised by Prof. <a href="https://www.cs.cityu.edu.hk/~zhiconlu/">Zhicong Lu</a>
+                    (CityU) and Prof. <a href="https://mayuxin.me/"> Yuxin Ma </a>(SUSTech). I am a member of DEER Lab and DVA Lab.
+                    </p>
+                  <p  class="w3-justify">I received my BEng degree from the Department of Computer Science and
+                      Engineering, Southern University of Science and Technology (<a
+                          href="https://www.sustech.edu.cn/">SUSTech</a>) in July, 2022. </p>
+                  <p  class="w3-justify">My current research mainly focuses on the area of Visual Analytics and Social Computing . 
+            </div>
 
-</body>
-</html>
+
+            <div class="content">
+                <hr>
+                <h3><a name="publication">Publications</a></h3>
+                
+                <table style="margin:20px">
+                    <tbody>
+
+                
+		<tr>
+                    <td>
+                        <strong><a href="https://dl.acm.org/doi/abs/10.1145/3544548.3581476">Understanding Communication Strategies and Viewer Engagement with Science Knowledge Videos on Bilibili
+                        </a></strong>
+                        <br>
+                        <a class="author-link" href="https://scholars.cityu.edu.hk/en/persons/yu-zhang(7991b232-8b7b-4043-8405-756ffd76fed5).html" target="_blank" rel="noopener">Yu Zhang</a>, 
+                        <a class="author-link" href="https://hechangyang.com/" target="_blank" rel="noopener">Changyang He</a>,
+                        <strong>Huanchen Wang</strong>,
+                        <a class="author-link" href="https://www.cs.cityu.edu.hk/~zhiconlu/" target="_blank" rel="noopener">Zhicong Lu</a>
+                        <br>
+                        <i>In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems</i>
+                        <br>
+                        [<a href="https://www.youtube.com/watch?v=-KpemLOBt1s">video</a>]
+                        [<a href="/publications/understanding-sci-bili/2023 Chi BiliSci.pdf">pdf</a>] 
+                        [<a href="/publications/understanding-sci-bili/2023 Chi BiliSci.bib">bib</a>]
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>
+                        <strong><a href="https://ieeexplore.ieee.org/abstract/document/10020763">A Geomagnetic Sensor Dataset for Traffic Flow Prediction
+                        </a></strong>
+                        <br>
+                        <strong>Huanchen Wang</strong>*, 
+                        <a class="author-link" href="https://scholar.google.com/citations?user=_PKwzTwAAAAJ&hl=en" target="_blank" rel="noopener">Quanjun Chen</a>*, 
+                        Zheng Dong, 
+                        <a class="author-link" href="https://faculty.sustech.edu.cn/?tagid=songx&iscss=1&snapid=1&orderby=date&go=1" target="_blank" rel="noopener">Xuan Song</a>,
+                        Hao Tian, Donglong Yang, Manxia Liu
+                        <br>
+                        (* = equal contribution)
+                        <br>
+                        <i>In 2022 IEEE International Conference on Big Data (Big Data)</i>
+                        <br>
+                        [<a  href="/publications/geomagnetic-dataset/2022 IEEE BigData Geomagnetic.pdf">pdf</a>] 
+                        [<a  href="/publications/geomagnetic-dataset/2022 IEEE BigData Geomagnetic.bib">bib</a>]
+                    </td>
+                    </tr>
+
+                <tr>
+                    <td>
+                        <strong><a href="https://ieeexplore.ieee.org/abstract/document/10020759">Learning Latent Road Correlations from Trajectories
+                        </a></strong>
+                        <br>
+                        Zheng Dong,
+                        <a class="author-link" href="https://scholar.google.com/citations?user=_PKwzTwAAAAJ&hl=en" target="_blank" rel="noopener">Quanjun Chen</a>, 
+                        <a class="author-link" href="https://www.renhejiang.com/" target="_blank" rel="noopener">Renhe Jiang</a>,
+                        <strong>Huanchen Wang</strong>, 
+                        <a class="author-link" href="https://faculty.sustech.edu.cn/?tagid=songx&iscss=1&snapid=1&orderby=date&go=1" target="_blank" rel="noopener">Xuan Song</a>,
+                        Hao Tian
+                        <br>
+                        <i>In 2022 IEEE International Conference on Big Data (Big Data)</i>
+                        <br>
+                        [<a href="/publications/latent-road-correlations/2022 IEEE BigData Road.pdf">pdf</a>] 
+                        [<a href="/publications/latent-road-correlations/2022 IEEE BigData Road.bib">bib</a>]
+                    </td>
+                </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="content">
+                <hr>
+                <h3><a name="services">Services</a></h3>
+		
+                <table style="margin:20px">
+                    <tbody> 
+                        <tr>
+                            <td style="width:100px;">2023</td>
+                            <td>Reviewer for ACM CHI-LBW</td>
+                        </tr>			
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="content">
+                <hr>
+                <h3><a name="teaching">Teaching Experience</a></h3>
+		
+                <table style="margin:20px">
+                    <tbody> 
+                        <tr>
+                            <td style="width:100px;">Spring 2023</td>
+                            <td>TA for CS2303 Data Structures for Media (CityU)</td>
+                        </tr>	
+                        <tr>
+                            <td style="width:100px;">Fall 2022</td>
+                            <td>TA for JC2066 IT Professionals: Ethical, Legal and Social Issues (CityU)</td>
+                        </tr>			
+                    </tbody>
+                </table>
+            </div>
+
+
+
+            <div class="content">
+                <hr>
+                <h3><a name="awards">Awards</a></h3>
+		
+                <table style="margin:20px">
+                    <tbody> 
+			    
+                        <tr>
+                            <td  style="width:100px;">2022-2026</td>
+                            <td>Postgraduate Scholarship, SUSTech & CityU</td>
+                        </tr>
+                        <tr>
+                            <td  style="width:100px;">2018</td>
+                            <td>Third-class Outstanding Freshmen Scholarship, SUSTech</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            
+
+            <div class="content">
+                <hr>
+                <h3>Acknowledgement</h3>
+                <p>This webpage design was "stolen" from <a href="https://changjianchen.github.io/">Changjian Chen</a>. Special thanks to him!
+                    <br>
+                    No.
+                  <!-- Default Statcounter code for My own homepage https://wanghchen.github.io/
+                  -->
+                  <script type="text/javascript">
+                    var sc_project=12885067; 
+                    var sc_invisible=0; 
+                    var sc_text=2;
+                    var sc_security="7f9bac45"; 
+                    var scJsHost = "https://";
+                    document.write("<sc"+"ript type='text/javascript' src='" + scJsHost+
+                    "statcounter.com/counter/counter.js'></"+"script>");
+                    </script> Visitor Since May 2023.
+                    <noscript><div class="statcounter"><a title="Web Analytics Made Easy -
+                    Statcounter" href="https://statcounter.com/" target="_blank"><img
+                    class="statcounter" src="https://c.statcounter.com/12885067/0/7f9bac45/0/"
+                    alt="Web Analytics Made Easy - Statcounter"
+                    referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
+                </p>
+                
+            </div>
+
+            <div class="content">
+                <hr>
+                <p>
+                <i>Last updated on May. 30th, 2023.</i>
+                </p>
+            </div>
+        </div>
+
+
+
+    
+</body></html>
