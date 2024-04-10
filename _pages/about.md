@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: ""
-excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,10 +16,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+My name is Huanchen Wang. I am a PhD candidate in the Department of Computer Science, City University of Hong Kong (<a href="https://www.cityu.edu.hk/">CityU</a>) from Sep. 2022 under <a href="https://www.cityu.edu.hk/pia/page.aspx?p=PhD_Joint_Degree_Programmes">CityU-SUSTech Joint PhD Programme</a>, supervised by Prof. <a href="https://www.cs.cityu.edu.hk/~zhiconlu/">Zhicong Lu</a> (CityU) and Prof. <a href="https://cse.sustech.edu.cn/faculty/~mayx/"> Yuxin Ma </a>(SUSTech). I am a member of DEER Lab and DVA Lab.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I received my BEng degree from the Department of Computer Science and Engineering, Southern University of Science and Technology (<a href="https://www.sustech.edu.cn/">SUSTech</a>) in July, 2022.
 
+My current research mainly focuses on the area of Social Computing and Interactive Visual Analytics. 
+I have published several papers <a href='https://scholar.google.com/citations?user=bThdf0MAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://cdn.jsdelivr.net/gh/wanghchen/wanghchen.github.io@google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the CHI.
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
