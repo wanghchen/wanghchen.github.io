@@ -42,14 +42,25 @@ I have published several papers <a href='https://scholar.google.com/citations?us
 </div>
 </div> -->
 
+- Critical Heritage Studies as a Lens to Understand Short Video Sharing of Intangible Cultural Heritage on Douyin
+  <br>
+  [**Huanchen Wang**](wanghchen.github.io), [Minzhu Zhao](MindyZHAOMinzhu.github.io), [Wanyang Hu], [Yuxin Ma](https://cse.sustech.edu.cn/faculty/~mayx/), [Zhicong Lu](https://www.cs.cityu.edu.hk/~zhiconlu/)
+  <br>
+  *In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI)*
+  <br>
+  [<a href="/publications/chs-ich-douyin/2023 CHI CHSICH.pdf">pdf</a>] 
+  [<a href="/publications/chs-ich-douyin/2023 CHI CHSICH.bib">bib</a>] 
+
+
 - [Understanding Communication Strategies and Viewer Engagement with Science Knowledge Videos on Bilibili](https://dl.acm.org/doi/abs/10.1145/3544548.3581476)
-  <br>[Yu Zhang](https://yuiz.github.io/), [Changyang He](https://hechangyang.com/), [**Huanchen Wang**](wanghchen.github.io), [Zhicong Lu](https://www.cs.cityu.edu.hk/~zhiconlu/)
+  <br>
+  [Yu Zhang](https://yuiz.github.io/), [Changyang He](https://hechangyang.com/), [**Huanchen Wang**](wanghchen.github.io), [Zhicong Lu](https://www.cs.cityu.edu.hk/~zhiconlu/)
   <br>
   *In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI)*
   <br>
   [<a href="https://www.youtube.com/watch?v=-KpemLOBt1s">video</a>]
-  [<a href="/publications/understanding-sci-bili/2023 Chi BiliSci.pdf">pdf</a>] 
-  [<a href="/publications/understanding-sci-bili/2023 Chi BiliSci.bib">bib</a>]
+  [<a href="/publications/understanding-sci-bili/2023 CHI BiliSci.pdf">pdf</a>] 
+  [<a href="/publications/understanding-sci-bili/2023 CHI BiliSci.bib">bib</a>]
 
 - [A Geomagnetic Sensor Dataset for Traffic Flow Prediction](https://ieeexplore.ieee.org/abstract/document/10020763)
   <br>
