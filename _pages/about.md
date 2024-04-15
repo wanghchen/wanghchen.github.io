@@ -45,7 +45,7 @@ I have published several papers <a href='https://scholar.google.com/citations?us
 
 - Critical Heritage Studies as a Lens to Understand Short Video Sharing of Intangible Cultural Heritage on Douyin
   <br>
-  [**Huanchen Wang**](wanghchen.github.io), [Minzhu Zhao](MindyZHAOMinzhu.github.io), [Wanyang Hu], [Yuxin Ma](https://cse.sustech.edu.cn/faculty/~mayx/), [Zhicong Lu](https://www.cs.cityu.edu.hk/~zhiconlu/)
+  [**Huanchen Wang**](wanghchen.github.io), [Minzhu Zhao](MindyZHAOMinzhu.github.io), Wanyang Hu, [Yuxin Ma](https://cse.sustech.edu.cn/faculty/~mayx/), [Zhicong Lu](https://www.cs.cityu.edu.hk/~zhiconlu/)
   <br>
   *In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI)*
   <br>
@@ -102,12 +102,5 @@ I have published several papers <a href='https://scholar.google.com/citations?us
 
 - Spring 2023: TA for CS2303 Data Structures for Media (CityU)
 - Fall 2022: TA for JC2066 IT Professionals: Ethical, Legal and Social Issues (CityU)
-<!-- 
-# 💬 Invited Talks
+- 
 
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
