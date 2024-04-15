@@ -24,12 +24,13 @@ My current research mainly focuses on the area of Social Computing and Interacti
 I have published several papers <a href='https://scholar.google.com/citations?user=bThdf0MAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://raw.githubusercontent.com/wanghchen/wanghchen.github.io/google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the CHI.
 
 # 🔥 News
-- *2024.01*: &nbsp;🎉🎉 Our paper in CHI is accepted. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.01*: &nbsp;🎉🎉 One papers are accepted by ACM CHI 2024. 
+- *2023.01*: &nbsp;🎉🎉 One papers are accepted by ACM CHI 2023. 
+- *2022.*: &nbsp;🎉🎉 Two papers are accepted by IEEE BigData 2022. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -39,9 +40,23 @@ I have published several papers <a href='https://scholar.google.com/citations?us
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
-</div>
+</div> -->
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Understanding Communication Strategies and Viewer Engagement with Science Knowledge Videos on Bilibili](https://dl.acm.org/doi/abs/10.1145/3544548.3581476)
+  [Yu Zhang](https://yuiz.github.io/), [Changyang He](https://hechangyang.com/), [**Huanchen Wang**](wanghchen.github.io), [Zhicong Lu](https://www.cs.cityu.edu.hk/~zhiconlu/)
+  *In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI)*
+  [video](https://www.youtube.com/watch?v=-KpemLOBt1s) [pdf](/publications/understanding-sci-bili/2023 Chi BiliSci.pdf) [bib] (/publications/understanding-sci-bili/2023 Chi BiliSci.bib)
+
+- [A Geomagnetic Sensor Dataset for Traffic Flow Prediction](https://ieeexplore.ieee.org/abstract/document/10020763)
+  [**Huanchen Wang**](wanghchen.github.io) *, [Quanjun Chen](https://scholar.google.com/citations?user=_PKwzTwAAAAJ&hl=en) *, Zheng Dong, [Xuan Song](https://www.sustech.edu.cn/en/faculties/songxuan.html), Hao Tian, Donglong Yang, Manxia Liu
+  (* = equal contribution)
+  *In 2022 IEEE International Conference on Big Data (Big Data)*
+  [pdf](/publications/geomagnetic-dataset/2022 IEEE BigData Geomagnetic.pdf) [bib](/publications/geomagnetic-dataset/2022 IEEE BigData Geomagnetic.bib)
+
+- [Learning Latent Road Correlations from Trajectories](https://ieeexplore.ieee.org/abstract/document/10020759)
+  Zheng Dong, [Quanjun Chen](https://scholar.google.com/citations?user=_PKwzTwAAAAJ&hl=en), [Renghe Jiang](https://www.renhejiang.com/), [**Huanchen Wang**](wanghchen.github.io), [Xuan Song](https://www.sustech.edu.cn/en/faculties/songxuan.html), Hao Tian 
+  *In 2022 IEEE International Conference on Big Data (Big Data)*
+  [pdf](/publications/latent-road-correlations/2022 IEEE BigData Road.pdf) [bib](/publications/latent-road-correlations/2022 IEEE BigData Road.bib)
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
