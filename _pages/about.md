@@ -23,12 +23,14 @@ I received my BEng degree from the Department of Computer Science and Engineerin
 My current research mainly focuses on the area of Social Computing and Interactive Visual Analytics.
 I have published several papers <a href='https://scholar.google.com/citations?user=bThdf0MAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://raw.githubusercontent.com/wanghchen/wanghchen.github.io/google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the CHI.
 
+<span class='anchor' id='-news'></span>
 # News
 
 - *2024.01*: &nbsp;🎉🎉 One papers are accepted by ACM CHI 2024.
 - *2023.01*: &nbsp;🎉🎉 One papers are accepted by ACM CHI 2023.
 - *2022.10*: &nbsp;🎉🎉 Two papers are accepted by IEEE BigData 2022.
 
+<span class='anchor' id='-publications'></span>
 # Publications
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -82,22 +84,26 @@ I have published several papers <a href='https://scholar.google.com/citations?us
   [<a href="/publications/latent-road-correlations/2022 IEEE BigData Road.pdf">pdf</a>]
   [<a href="/publications/latent-road-correlations/2022 IEEE BigData Road.bib">bib</a>]
 
+<span class='anchor' id='-honors-and-awards'></span>
 # Honors and Awards
 
 - *2022-2026* Postgraduate Scholarship, SUSTech & CityU.
 - *2018* Third-class Outstanding Freshmen Scholarship, SUSTech.
 
+<span class='anchor' id='-educations'></span>
 # Educations
 
 - *2022.09 - 2024.04 (now)*, PhD candidate, Department of Computer Science, City University of Hong Kong, Hong Kong SAR, China.
 - *2018.09 - 2022.07*, Undergraduate, Department of Computer Science and Engineering, Southern University of Science and Technology, Shenzhen, China.
 
+<span class='anchor' id='-services'></span>
 # Services
 
 - Reviewer of ACM CHI PLAY 2024.
 - Reviewer of ACM CHI 2024.
 - Reviewer of ACM CHI-LBW 2023.
 
+<span class='anchor' id='-teaching-experiences'></span>
 # Teaching Experiences
 
 - Spring 2023: TA for CS2303 Data Structures for Media (CityU)
