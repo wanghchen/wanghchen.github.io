@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Huanchen Wang (王焕辰)"
-description              : "PhD candidate in City University of Hong Kong, Computer Science Dept. and Southern University of Science and Technology, Computer Science and Engineering Dept. Focusing on human-computer interaction and visual analytics."
+description              : "PhD candidate in CityU and SUSTech. Focusing on human-computer interaction and visual analytics."
 repository               : "wanghchen/wanghchen.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Huanchen Wang (王焕辰)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "City University of Hong Kong & Southern University of Science and Technology"
-  location         : "Hong Kong & Shenzhen, China"
+  bio              : "CityU & SUSTech"
+  location         : "Hong Kong SAR & Shenzhen"
   employer         :
   pubmed           : 
   email            : "hc.wang@my.cityu.edu.hk & wanghc2022@mail.sustech.edu.cn"

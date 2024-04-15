@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% assign gsDataBaseUrl = "<https://cdn.jsdelivr.net/gh/>" | append: site.repository | append: "@" %}
 {% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% assign gsDataBaseUrl = "<https://raw.githubusercontent.com/>" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
@@ -20,15 +20,16 @@ My name is Huanchen Wang. I am a PhD candidate in the Department of Computer Sci
 
 I received my BEng degree from the Department of Computer Science and Engineering, Southern University of Science and Technology (<a href="https://www.sustech.edu.cn/">SUSTech</a>) in July, 2022.
 
-My current research mainly focuses on the area of Social Computing and Interactive Visual Analytics. 
+My current research mainly focuses on the area of Social Computing and Interactive Visual Analytics.
 I have published several papers <a href='https://scholar.google.com/citations?user=bThdf0MAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://raw.githubusercontent.com/wanghchen/wanghchen.github.io/google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the CHI.
 
 # 🔥 News
-- *2024.01*: &nbsp;🎉🎉 One papers are accepted by ACM CHI 2024. 
-- *2023.01*: &nbsp;🎉🎉 One papers are accepted by ACM CHI 2023. 
-- *2022.*: &nbsp;🎉🎉 Two papers are accepted by IEEE BigData 2022. 
 
-# 📝 Publications 
+- *2024.01*: &nbsp;🎉🎉 One papers are accepted by ACM CHI 2024.
+- *2023.01*: &nbsp;🎉🎉 One papers are accepted by ACM CHI 2023.
+- *2022.10*: &nbsp;🎉🎉 Two papers are accepted by IEEE BigData 2022.
+
+# 📝 Publications
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -48,9 +49,8 @@ I have published several papers <a href='https://scholar.google.com/citations?us
   <br>
   *In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI)*
   <br>
-  [<a href="/publications/chs-ich-douyin/2023 CHI CHSICH.pdf">pdf</a>] 
-  [<a href="/publications/chs-ich-douyin/2023 CHI CHSICH.bib">bib</a>] 
-
+  [<a href="/publications/chs-ich-douyin/2023 CHI CHSICH.pdf">pdf</a>]
+  [<a href="/publications/chs-ich-douyin/2023 CHI CHSICH.bib">bib</a>]
 
 - [Understanding Communication Strategies and Viewer Engagement with Science Knowledge Videos on Bilibili](https://dl.acm.org/doi/abs/10.1145/3544548.3581476)
   <br>
@@ -59,41 +59,44 @@ I have published several papers <a href='https://scholar.google.com/citations?us
   *In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI)*
   <br>
   [<a href="https://www.youtube.com/watch?v=-KpemLOBt1s">video</a>]
-  [<a href="/publications/understanding-sci-bili/2023 CHI BiliSci.pdf">pdf</a>] 
+  [<a href="/publications/understanding-sci-bili/2023 CHI BiliSci.pdf">pdf</a>]
   [<a href="/publications/understanding-sci-bili/2023 CHI BiliSci.bib">bib</a>]
 
 - [A Geomagnetic Sensor Dataset for Traffic Flow Prediction](https://ieeexplore.ieee.org/abstract/document/10020763)
   <br>
-  [**Huanchen Wang**](wanghchen.github.io) *, [Quanjun Chen](https://scholar.google.com/citations?user=_PKwzTwAAAAJ&hl=en) *, Zheng Dong, [Xuan Song](https://www.sustech.edu.cn/en/faculties/songxuan.html), Hao Tian, Donglong Yang, Manxia Liu
+  [**Huanchen Wang**](wanghchen.github.io)\*, [Quanjun Chen](https://scholar.google.com/citations?user=_PKwzTwAAAAJ&hl=en)\*, Zheng Dong, [Xuan Song](https://www.sustech.edu.cn/en/faculties/songxuan.html), Hao Tian, Donglong Yang, Manxia Liu
   <br>
   (* = equal contribution)
   <br>
   *In 2022 IEEE International Conference on Big Data (Big Data)*
   <br>
-  [<a  href="/publications/geomagnetic-dataset/2022 IEEE BigData Geomagnetic.pdf">pdf</a>] 
+  [<a  href="/publications/geomagnetic-dataset/2022 IEEE BigData Geomagnetic.pdf">pdf</a>]
   [<a  href="/publications/geomagnetic-dataset/2022 IEEE BigData Geomagnetic.bib">bib</a>]
-
 
 - [Learning Latent Road Correlations from Trajectories](https://ieeexplore.ieee.org/abstract/document/10020759)
   <br>
-  Zheng Dong, [Quanjun Chen](https://scholar.google.com/citations?user=_PKwzTwAAAAJ&hl=en), [Renghe Jiang](https://www.renhejiang.com/), [**Huanchen Wang**](wanghchen.github.io), [Xuan Song](https://www.sustech.edu.cn/en/faculties/songxuan.html), Hao Tian 
+  Zheng Dong, [Quanjun Chen](https://scholar.google.com/citations?user=_PKwzTwAAAAJ&hl=en), [Renghe Jiang](https://www.renhejiang.com/), [**Huanchen Wang**](wanghchen.github.io), [Xuan Song](https://www.sustech.edu.cn/en/faculties/songxuan.html), Hao Tian
   <br>
   *In 2022 IEEE International Conference on Big Data (Big Data)*
   <br>
-  [<a href="/publications/latent-road-correlations/2022 IEEE BigData Road.pdf">pdf</a>] 
+  [<a href="/publications/latent-road-correlations/2022 IEEE BigData Road.pdf">pdf</a>]
   [<a href="/publications/latent-road-correlations/2022 IEEE BigData Road.bib">bib</a>]
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
+
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
