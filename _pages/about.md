@@ -98,9 +98,7 @@ I have published several papers <a href='https://scholar.google.com/citations?us
 - Reviewer of ACM CHI 2024.
 - Reviewer of ACM CHI-LBW 2023.
 
-# Teaching Experience
+# Teaching Experiences
 
 - Spring 2023: TA for CS2303 Data Structures for Media (CityU)
 - Fall 2022: TA for JC2066 IT Professionals: Ethical, Legal and Social Issues (CityU)
-- 
-
