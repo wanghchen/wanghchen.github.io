@@ -21,7 +21,8 @@ My name is Huanchen Wang. I am a PhD candidate in the Department of Computer Sci
 I received my BEng degree from the Department of Computer Science and Engineering, Southern University of Science and Technology (<a href="https://www.sustech.edu.cn/">SUSTech</a>) in July, 2022.
 
 My current research mainly focuses on the area of Social Computing and Interactive Visual Analytics.
-I have published several papers <a href='https://scholar.google.com/citations?user=bThdf0MAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://raw.githubusercontent.com/wanghchen/wanghchen.github.io/google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the CHI.
+I have published several papers at the ACM CHI.
+<!-- <a href='https://scholar.google.com/citations?user=bThdf0MAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://raw.githubusercontent.com/wanghchen/wanghchen.github.io/google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>  -->
 
 <span class='anchor' id='-news'></span>
 # News
