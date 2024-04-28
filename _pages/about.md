@@ -48,7 +48,7 @@ I have published several papers at the ACM CHI.
 
 - Critical Heritage Studies as a Lens to Understand Short Video Sharing of Intangible Cultural Heritage on Douyin
   <br>
-  [**Huanchen Wang**](wanghchen.github.io), [Minzhu Zhao](mindyzhaominzhu.github.io), Wanyang Hu, [Yuxin Ma](https://cse.sustech.edu.cn/faculty/~mayx/), [Zhicong Lu](https://www.cs.cityu.edu.hk/~zhiconlu/)
+  [**Huanchen Wang**](https://wanghchen.github.io), [Minzhu Zhao](https://mindyzhaominzhu.github.io), Wanyang Hu, [Yuxin Ma](https://cse.sustech.edu.cn/faculty/~mayx/), [Zhicong Lu](https://www.cs.cityu.edu.hk/~zhiconlu/)
   <br>
   *In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI)*
   <br>
@@ -57,7 +57,7 @@ I have published several papers at the ACM CHI.
 
 - [Understanding Communication Strategies and Viewer Engagement with Science Knowledge Videos on Bilibili](https://dl.acm.org/doi/abs/10.1145/3544548.3581476)
   <br>
-  [Yu Zhang](https://yuiz.github.io/), [Changyang He](https://hechangyang.com/), [**Huanchen Wang**](wanghchen.github.io), [Zhicong Lu](https://www.cs.cityu.edu.hk/~zhiconlu/)
+  [Yu Zhang](https://yuiz.github.io/), [Changyang He](https://hechangyang.com/), [**Huanchen Wang**](https://wanghchen.github.io), [Zhicong Lu](https://www.cs.cityu.edu.hk/~zhiconlu/)
   <br>
   *In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI)*
   <br>
@@ -67,7 +67,7 @@ I have published several papers at the ACM CHI.
 
 - [A Geomagnetic Sensor Dataset for Traffic Flow Prediction](https://ieeexplore.ieee.org/abstract/document/10020763)
   <br>
-  [**Huanchen Wang**](wanghchen.github.io)\*, [Quanjun Chen](https://scholar.google.com/citations?user=_PKwzTwAAAAJ&hl=en)\*, Zheng Dong, [Xuan Song](https://www.sustech.edu.cn/en/faculties/songxuan.html), Hao Tian, Donglong Yang, Manxia Liu
+  [**Huanchen Wang**](https://wanghchen.github.io)\*, [Quanjun Chen](https://scholar.google.com/citations?user=_PKwzTwAAAAJ&hl=en)\*, Zheng Dong, [Xuan Song](https://www.sustech.edu.cn/en/faculties/songxuan.html), Hao Tian, Donglong Yang, Manxia Liu
   <br>
   (* = equal contribution)
   <br>
@@ -78,7 +78,7 @@ I have published several papers at the ACM CHI.
 
 - [Learning Latent Road Correlations from Trajectories](https://ieeexplore.ieee.org/abstract/document/10020759)
   <br>
-  Zheng Dong, [Quanjun Chen](https://scholar.google.com/citations?user=_PKwzTwAAAAJ&hl=en), [Renghe Jiang](https://www.renhejiang.com/), [**Huanchen Wang**](wanghchen.github.io), [Xuan Song](https://www.sustech.edu.cn/en/faculties/songxuan.html), Hao Tian
+  Zheng Dong, [Quanjun Chen](https://scholar.google.com/citations?user=_PKwzTwAAAAJ&hl=en), [Renghe Jiang](https://www.renhejiang.com/), [**Huanchen Wang**](https://wanghchen.github.io), [Xuan Song](https://www.sustech.edu.cn/en/faculties/songxuan.html), Hao Tian
   <br>
   *In 2022 IEEE International Conference on Big Data (Big Data)*
   <br>
