@@ -47,12 +47,12 @@ I have published several papers <a href='https://scholar.google.com/citations?us
 
 - Critical Heritage Studies as a Lens to Understand Short Video Sharing of Intangible Cultural Heritage on Douyin
   <br>
-  [**Huanchen Wang**](wanghchen.github.io), [Minzhu Zhao](MindyZHAOMinzhu.github.io), Wanyang Hu, [Yuxin Ma](https://cse.sustech.edu.cn/faculty/~mayx/), [Zhicong Lu](https://www.cs.cityu.edu.hk/~zhiconlu/)
+  [**Huanchen Wang**](wanghchen.github.io), [Minzhu Zhao](mindyzhaominzhu.github.io), Wanyang Hu, [Yuxin Ma](https://cse.sustech.edu.cn/faculty/~mayx/), [Zhicong Lu](https://www.cs.cityu.edu.hk/~zhiconlu/)
   <br>
   *In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI)*
   <br>
-  [<a href="/publications/chs-ich-douyin/2023 CHI CHSICH.pdf">pdf</a>]
-  [<a href="/publications/chs-ich-douyin/2023 CHI CHSICH.bib">bib</a>]
+  [<a href="/publications/chs-ich-douyin/2024-CHI-CHSICH.pdf">pdf</a>]
+  [<a href="/publications/chs-ich-douyin/2024-CHI-CHSICH.bib">bib</a>]
 
 - [Understanding Communication Strategies and Viewer Engagement with Science Knowledge Videos on Bilibili](https://dl.acm.org/doi/abs/10.1145/3544548.3581476)
   <br>
@@ -61,8 +61,8 @@ I have published several papers <a href='https://scholar.google.com/citations?us
   *In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI)*
   <br>
   [<a href="https://www.youtube.com/watch?v=-KpemLOBt1s">video</a>]
-  [<a href="/publications/understanding-sci-bili/2023 CHI BiliSci.pdf">pdf</a>]
-  [<a href="/publications/understanding-sci-bili/2023 CHI BiliSci.bib">bib</a>]
+  [<a href="/publications/understanding-sci-bili/2023-CHI-BiliSci.pdf">pdf</a>]
+  [<a href="/publications/understanding-sci-bili/2023-CHI-BiliSci.bib">bib</a>]
 
 - [A Geomagnetic Sensor Dataset for Traffic Flow Prediction](https://ieeexplore.ieee.org/abstract/document/10020763)
   <br>
@@ -72,8 +72,8 @@ I have published several papers <a href='https://scholar.google.com/citations?us
   <br>
   *In 2022 IEEE International Conference on Big Data (Big Data)*
   <br>
-  [<a  href="/publications/geomagnetic-dataset/2022 IEEE BigData Geomagnetic.pdf">pdf</a>]
-  [<a  href="/publications/geomagnetic-dataset/2022 IEEE BigData Geomagnetic.bib">bib</a>]
+  [<a  href="/publications/geomagnetic-dataset/2022-IEEEBigData-Geomagnetic.pdf">pdf</a>]
+  [<a  href="/publications/geomagnetic-dataset/2022-IEEEBigData-Geomagnetic.bib">bib</a>]
 
 - [Learning Latent Road Correlations from Trajectories](https://ieeexplore.ieee.org/abstract/document/10020759)
   <br>
@@ -81,8 +81,8 @@ I have published several papers <a href='https://scholar.google.com/citations?us
   <br>
   *In 2022 IEEE International Conference on Big Data (Big Data)*
   <br>
-  [<a href="/publications/latent-road-correlations/2022 IEEE BigData Road.pdf">pdf</a>]
-  [<a href="/publications/latent-road-correlations/2022 IEEE BigData Road.bib">bib</a>]
+  [<a href="/publications/latent-road-correlations/2022-IEEEBigData-Road.pdf">pdf</a>]
+  [<a href="/publications/latent-road-correlations/2022-IEEEBigData-Road.bib">bib</a>]
 
 <span class='anchor' id='-honors-and-awards'></span>
 # Honors and Awards
