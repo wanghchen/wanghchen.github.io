@@ -27,8 +27,8 @@ I have published several papers at the ACM CHI.
 <span class='anchor' id='-news'></span>
 # News
 
-- *2024.01*: &nbsp;🎉🎉 One paper are accepted by ACM CHI 2024.
-- *2023.01*: &nbsp;🎉🎉 One paper are accepted by ACM CHI 2023.
+- *2024.01*: &nbsp;🎉🎉 One paper is accepted by ACM CHI 2024.
+- *2023.01*: &nbsp;🎉🎉 One paper is accepted by ACM CHI 2023.
 - *2022.10*: &nbsp;🎉🎉 Two papers are accepted by IEEE BigData 2022.
 
 <span class='anchor' id='-publications'></span>
