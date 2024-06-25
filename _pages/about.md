@@ -21,10 +21,11 @@ My name is Huanchen Wang. I am a PhD candidate in the Department of Computer Sci
 I received my BEng degree from the Department of Computer Science and Engineering, Southern University of Science and Technology (<a href="https://www.sustech.edu.cn/">SUSTech</a>) in July, 2022.
 
 My current research mainly focuses on the area of Social Computing and Interactive Visual Analytics.
-I have published several papers at the ACM CHI.
+<!-- I have published several papers at the ACM CHI.-->
 <!-- <a href='https://scholar.google.com/citations?user=bThdf0MAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://raw.githubusercontent.com/wanghchen/wanghchen.github.io/google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>  -->
 
 <span class='anchor' id='-news'></span>
+
 # News
 
 - *2024.01*: &nbsp;🎉🎉 One paper is accepted by ACM CHI 2024.
@@ -35,6 +36,7 @@ I have published several papers at the ACM CHI.
 # Publications
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -94,12 +96,14 @@ I have published several papers at the ACM CHI.
 <span class='anchor' id='-educations'></span>
 # Educations
 
-- *2022.09 - 2024.04 (now)*, PhD candidate, Department of Computer Science, City University of Hong Kong, Hong Kong SAR, China.
+- *2022.09 - now*, PhD candidate, Department of Computer Science, City University of Hong Kong, Hong Kong SAR, China.
 - *2018.09 - 2022.07*, Undergraduate, Department of Computer Science and Engineering, Southern University of Science and Technology, Shenzhen, China.
 
 <span class='anchor' id='-services'></span>
 # Services
 
+- Reviewer of ACM CSCW 2024.
+- Reviewer of ChinaVis 2024.
 - Reviewer of ACM CHI PLAY 2024.
 - Reviewer of ACM CHI 2024.
 - Reviewer of ACM CHI-LBW 2023.
