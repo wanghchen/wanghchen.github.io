@@ -102,7 +102,7 @@ My current research mainly focuses on the area of Social Computing and Interacti
 <span class='anchor' id='-services'></span>
 # Services
 
-- Reviewer of ACM CSCW 2024.
+- Reviewer of ACM CSCW 2024 Poster.
 - Reviewer of ChinaVis 2024.
 - Reviewer of ACM CHI PLAY 2024.
 - Reviewer of ACM CHI 2024.
