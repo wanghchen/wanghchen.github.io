@@ -52,7 +52,7 @@ My current research primarily focuses on Social Computing and Human-AI collabora
 - DanModCap: Designing a Danmaku Moderation Tool for Video-Sharing Platforms that Leverages Impact Captions
   
   [Siying Hu](https://scholar.google.com/citations?user=BJg8enwAAAAJ), [**Huanchen Wang**](https://wanghchen.github.io), [Yu Zhang](https://scholar.google.com/citations?user=IoPD6n4AAAAJ), [Piaohong Wang](https://sites.google.com/view/wamgpiaohong/homepage), [Zhicong Lu](https://www.cs.cityu.edu.hk/~zhiconlu/)
-  
+
   *In Proceedings of the ACM on Human-Computer Interaction (CSCW) (to appear at CSCW 2025)*
   
   [<a href="/publications/cscw-danmodcap/danmodcap.pdf">pdf</a>]
@@ -62,19 +62,21 @@ My current research primarily focuses on Social Computing and Human-AI collabora
   [**Huanchen Wang**](https://wanghchen.github.io), [Minzhu Zhao](https://mindyzhaominzhu.github.io), Wanyang Hu, [Yuxin Ma](https://cse.sustech.edu.cn/faculty/~mayx/), [Zhicong Lu](https://www.cs.cityu.edu.hk/~zhiconlu/)
   
   *In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI)*
+  
   [<a href="/publications/chs-ich-douyin/2024-CHI-CHSICH.pdf">pdf</a>]
   [<a href="/publications/chs-ich-douyin/2024-CHI-CHSICH.bib">bib</a>]
-
--   [Understanding Communication Strategies and Viewer Engagement with Science Knowledge Videos on Bilibili](https://dl.acm.org/doi/abs/10.1145/3544548.3581476)
+  
+- Understanding Communication Strategies and Viewer Engagement with Science Knowledge Videos on Bilibili
   
   [Yu Zhang](https://scholar.google.com/citations?user=IoPD6n4AAAAJ), [Changyang He](https://hechangyang.com/), [**Huanchen Wang**](https://wanghchen.github.io), [Zhicong Lu](https://www.cs.cityu.edu.hk/~zhiconlu/)
   
   *In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI)*
+  
   [<a href="https://www.youtube.com/watch?v=-KpemLOBt1s">video</a>]
   [<a href="/publications/understanding-sci-bili/2023-CHI-BiliSci.pdf">pdf</a>]
   [<a href="/publications/understanding-sci-bili/2023-CHI-BiliSci.bib">bib</a>]
   
-- [A Geomagnetic Sensor Dataset for Traffic Flow Prediction](https://ieeexplore.ieee.org/abstract/document/10020763)
+- A Geomagnetic Sensor Dataset for Traffic Flow Prediction
   
   [**Huanchen Wang**](https://wanghchen.github.io)\*, [Quanjun Chen](https://scholar.google.com/citations?user=_PKwzTwAAAAJ&hl=en)\*, Zheng Dong, [Xuan Song](https://www.sustech.edu.cn/en/faculties/songxuan.html), Hao Tian, Donglong Yang, Manxia Liu
   
@@ -85,7 +87,7 @@ My current research primarily focuses on Social Computing and Human-AI collabora
   [<a  href="/publications/geomagnetic-dataset/2022-IEEEBigData-Geomagnetic.pdf">pdf</a>]
   [<a  href="/publications/geomagnetic-dataset/2022-IEEEBigData-Geomagnetic.bib">bib</a>]
 
-- [Learning Latent Road Correlations from Trajectories](https://ieeexplore.ieee.org/abstract/document/10020759)
+- Learning Latent Road Correlations from Trajectories
   
   Zheng Dong, [Quanjun Chen](https://scholar.google.com/citations?user=_PKwzTwAAAAJ&hl=en), [Renghe Jiang](https://www.renhejiang.com/), [**Huanchen Wang**](https://wanghchen.github.io), [Xuan Song](https://www.sustech.edu.cn/en/faculties/songxuan.html), Hao Tian
   
