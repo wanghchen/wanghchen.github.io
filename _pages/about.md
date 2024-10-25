@@ -55,7 +55,7 @@ My current research primarily focuses on Social Computing and Human-AI collabora
   
   *In Proceedings of the ACM on Human-Computer Interaction (CSCW) (to appear at CSCW 2025)*
   
-  [<a href="/publications/">pdf</a>]
+  [<a href="/publications/cscw-danmodcap/danmodcap.pdf">pdf</a>]
   
 - Critical Heritage Studies as a Lens to Understand Short Video Sharing of Intangible Cultural Heritage on Douyin
   
@@ -64,10 +64,11 @@ My current research primarily focuses on Social Computing and Human-AI collabora
   *In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI)*
   [<a href="/publications/chs-ich-douyin/2024-CHI-CHSICH.pdf">pdf</a>]
   [<a href="/publications/chs-ich-douyin/2024-CHI-CHSICH.bib">bib</a>]
-  
-- [Understanding Communication Strategies and Viewer Engagement with Science Knowledge Videos on Bilibili](https://dl.acm.org/doi/abs/10.1145/3544548.3581476)
+
+-   [Understanding Communication Strategies and Viewer Engagement with Science Knowledge Videos on Bilibili](https://dl.acm.org/doi/abs/10.1145/3544548.3581476)
   
   [Yu Zhang](https://scholar.google.com/citations?user=IoPD6n4AAAAJ), [Changyang He](https://hechangyang.com/), [**Huanchen Wang**](https://wanghchen.github.io), [Zhicong Lu](https://www.cs.cityu.edu.hk/~zhiconlu/)
+  
   *In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI)*
   [<a href="https://www.youtube.com/watch?v=-KpemLOBt1s">video</a>]
   [<a href="/publications/understanding-sci-bili/2023-CHI-BiliSci.pdf">pdf</a>]
