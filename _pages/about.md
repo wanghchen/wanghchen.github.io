@@ -28,6 +28,7 @@ My current research primarily focuses on Social Computing and Human-AI Collabora
 
 # News
 
+- *2025.01*: &nbsp;🎉🎉 One paper is accepted by ACM CHI 2025.
 - *2024.10*: &nbsp;🎉🎉 One paper is accepted by ACM CSCW 2025.
 - *2024.01*: &nbsp;🎉🎉 One paper is accepted by ACM CHI 2024.
 - *2023.01*: &nbsp;🎉🎉 One paper is accepted by ACM CHI 2023.
@@ -111,11 +112,11 @@ My current research primarily focuses on Social Computing and Human-AI Collabora
 <span class='anchor' id='-services'></span>
 # Services
 
+- Reviewer of CHCHI 2024.
 - Reviewer of ACM CSCW Poster 2024.
 - Reviewer of ChinaVis 2024.
 - Reviewer of ACM CHI PLAY 2024.
-- Reviewer of ACM CHI 2024.
-- Reviewer of ACM CHI-LBW 2023.
+- Reviewer of ACM CHI 2024, LBW 2023.
 
 <span class='anchor' id='-teaching-experiences'></span>
 # Teaching Experiences
