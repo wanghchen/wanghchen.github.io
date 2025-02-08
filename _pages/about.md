@@ -30,6 +30,7 @@ My current research primarily focuses on Social Computing and Human-AI Collabora
 
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted by ACM CHI 2025.
 - *2024.10*: &nbsp;🎉🎉 One paper is accepted by ACM CSCW 2025.
+- 2024.05:  Attending to CHI 2024 (Honolulu, Hawaii, USA)!
 - *2024.01*: &nbsp;🎉🎉 One paper is accepted by ACM CHI 2024.
 - *2023.01*: &nbsp;🎉🎉 One paper is accepted by ACM CHI 2023.
 - *2022.10*: &nbsp;🎉🎉 Two papers are accepted by IEEE BigData 2022.
@@ -50,9 +51,17 @@ My current research primarily focuses on Social Computing and Human-AI Collabora
   </div>
   </div> -->
 
+- HarmonyCut: Supporting Creative Chinese Paper-cutting Design with Form and Connotation Harmony
+  
+  [**Huanchen Wang**](https://wanghchen.github.io)\*, Tianrun Qiu\*, Jiaping Li, [Zhicong Lu](https://luzhc.github.io/),  [Yuxin Ma](https://cse.sustech.edu.cn/faculty/~mayx/)
+
+  (* = equal contribution)
+  
+  *In Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (CHI)*
+  
 - DanModCap: Designing a Danmaku Moderation Tool for Video-Sharing Platforms that Leverages Impact Captions
   
-  [Siying Hu](https://scholar.google.com/citations?user=BJg8enwAAAAJ), [**Huanchen Wang**](https://wanghchen.github.io), [Yu Zhang](https://scholar.google.com/citations?user=IoPD6n4AAAAJ), [Piaohong Wang](https://sites.google.com/view/wamgpiaohong/homepage), [Zhicong Lu](https://www.cs.cityu.edu.hk/~zhiconlu/)
+  [Siying Hu](https://scholar.google.com/citations?user=BJg8enwAAAAJ), [**Huanchen Wang**](https://wanghchen.github.io), [Yu Zhang](https://scholar.google.com/citations?user=IoPD6n4AAAAJ), [Piaohong Wang](https://sites.google.com/view/wamgpiaohong/homepage), [Zhicong Lu](https://luzhc.github.io/)
 
   *In Proceedings of the ACM on Human-Computer Interaction (CSCW) (to appear at CSCW 2025)*
   
@@ -60,7 +69,7 @@ My current research primarily focuses on Social Computing and Human-AI Collabora
   
 - Critical Heritage Studies as a Lens to Understand Short Video Sharing of Intangible Cultural Heritage on Douyin
   
-  [**Huanchen Wang**](https://wanghchen.github.io), [Minzhu Zhao](https://mindyzhaominzhu.github.io), Wanyang Hu, [Yuxin Ma](https://cse.sustech.edu.cn/faculty/~mayx/), [Zhicong Lu](https://www.cs.cityu.edu.hk/~zhiconlu/)
+  [**Huanchen Wang**](https://wanghchen.github.io), [Minzhu Zhao](https://mindyzhaominzhu.github.io), Wanyang Hu, [Yuxin Ma](https://cse.sustech.edu.cn/faculty/~mayx/), [Zhicong Lu](https://luzhc.github.io/)
   
   *In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI)*
   
@@ -69,7 +78,7 @@ My current research primarily focuses on Social Computing and Human-AI Collabora
   
 - Understanding Communication Strategies and Viewer Engagement with Science Knowledge Videos on Bilibili
   
-  [Yu Zhang](https://scholar.google.com/citations?user=IoPD6n4AAAAJ), [Changyang He](https://hechangyang.com/), [**Huanchen Wang**](https://wanghchen.github.io), [Zhicong Lu](https://www.cs.cityu.edu.hk/~zhiconlu/)
+  [Yu Zhang](https://scholar.google.com/citations?user=IoPD6n4AAAAJ), [Changyang He](https://hechangyang.com/), [**Huanchen Wang**](https://wanghchen.github.io), [Zhicong Lu](https://luzhc.github.io/)
   
   *In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI)*
   
@@ -113,10 +122,10 @@ My current research primarily focuses on Social Computing and Human-AI Collabora
 # Services
 
 - Reviewer of CHCHI 2024.
-- Reviewer of ACM CSCW Poster 2024.
+- Reviewer of ACM CSCW 2024, 2025.
 - Reviewer of ChinaVis 2024.
 - Reviewer of ACM CHI PLAY 2024.
-- Reviewer of ACM CHI 2024, LBW 2023.
+- Reviewer of ACM CHI 2023, 2024, 2025.
 
 <span class='anchor' id='-teaching-experiences'></span>
 # Teaching Experiences
