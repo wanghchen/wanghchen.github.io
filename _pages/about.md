@@ -16,9 +16,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Huanchen Wang. I am a PhD candidate in the Department of Computer Science, City University of Hong Kong (<a href="https://www.cityu.edu.hk/">CityU</a>) from Sep. 2022 under <a href="https://www.cityu.edu.hk/pia/page.aspx?p=PhD_Joint_Degree_Programmes">CityU-SUSTech Joint PhD Programme</a>, supervised by Prof. <a href="https://www.cs.cityu.edu.hk/~zhiconlu/">Zhicong Lu</a> (CityU) and Prof. <a href="https://cse.sustech.edu.cn/faculty/~mayx/"> Yuxin Ma </a>(SUSTech). I am a member of DEER Lab and DVA Lab.
+My name is Huanchen Wang. I am a PhD candidate in the Department of Computer Science, City University of Hong Kong (<a href="https://www.cityu.edu.hk/">CityUHK</a>) from Sep. 2022 under CityU-SUSTech Joint PhD Programme, supervised by Prof. <a href="https://luzhc.github.io/">Zhicong Lu</a> (GMU, previously at CityUHK), Prof. <a href="https://cse.sustech.edu.cn/faculty/~mayx/">Yuxin Ma </a> (SUSTech), and <a href="https://www.cs.cityu.edu.hk/~zhichalu/">Zhichao Lu</a> (CityuHK). I am a member of DEER Lab and DVA Lab.
 
-I received my BEng degree from the Department of Computer Science and Engineering, Southern University of Science and Technology (<a href="https://www.sustech.edu.cn/">SUSTech</a>) in July, 2022.
+I received my BEng degree from the Department of Computer Science and Engineering, Southern University of Science and Technology (<a href="https://www.sustech.edu.cn/">SUSTech</a>) in July, 2022, under the supervision of Professor [Xuan Song](https://www.sustech.edu.cn/en/faculties/songxuan.html).
 
 My current research primarily focuses on Social Computing and Human-AI Collaboration in the context of [Intangible Cultural Heritage (ICH)](https://ich.unesco.org/en/what-is-intangible-heritage-00003), as well as on Interactive Visual Analytics.
 <!-- I have published several papers at the ACM CHI.-->
@@ -30,7 +30,7 @@ My current research primarily focuses on Social Computing and Human-AI Collabora
 
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted by ACM CHI 2025.
 - *2024.10*: &nbsp;🎉🎉 One paper is accepted by ACM CSCW 2025.
-- 2024.05:  Attending to CHI 2024 (Honolulu, Hawaii, USA)!
+- 2024.05:  Attending to ACM CHI 2024 (Honolulu, Hawaii, USA)!
 - *2024.01*: &nbsp;🎉🎉 One paper is accepted by ACM CHI 2024.
 - *2023.01*: &nbsp;🎉🎉 One paper is accepted by ACM CHI 2023.
 - *2022.10*: &nbsp;🎉🎉 Two papers are accepted by IEEE BigData 2022.
@@ -58,6 +58,8 @@ My current research primarily focuses on Social Computing and Human-AI Collabora
   (* = equal contribution)
   
   *In Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (CHI)*
+  
+  [[pdf](https://arxiv.org/pdf/2502.07628)]
   
 - DanModCap: Designing a Danmaku Moderation Tool for Video-Sharing Platforms that Leverages Impact Captions
   
@@ -88,7 +90,7 @@ My current research primarily focuses on Social Computing and Human-AI Collabora
   
 - A Geomagnetic Sensor Dataset for Traffic Flow Prediction
   
-  [**Huanchen Wang**](https://wanghchen.github.io)\*, [Quanjun Chen](https://scholar.google.com/citations?user=_PKwzTwAAAAJ&hl=en)\*, Zheng Dong, [Xuan Song](https://www.sustech.edu.cn/en/faculties/songxuan.html), Hao Tian, Donglong Yang, Manxia Liu
+  [**Huanchen Wang**](https://wanghchen.github.io)\*, [Quanjun Chen](https://scholar.google.com/citations?user=_PKwzTwAAAAJ)\*, [Zheng Dong](https://scholar.google.com/citations?user=Bgq0fbYAAAAJ), [Xuan Song](https://www.sustech.edu.cn/en/faculties/songxuan.html), Hao Tian, Donglong Yang, Manxia Liu
   
   (* = equal contribution)
   
@@ -99,7 +101,7 @@ My current research primarily focuses on Social Computing and Human-AI Collabora
 
 - Learning Latent Road Correlations from Trajectories
   
-  Zheng Dong, [Quanjun Chen](https://scholar.google.com/citations?user=_PKwzTwAAAAJ&hl=en), [Renghe Jiang](https://www.renhejiang.com/), [**Huanchen Wang**](https://wanghchen.github.io), [Xuan Song](https://www.sustech.edu.cn/en/faculties/songxuan.html), Hao Tian
+  [Zheng Dong](https://scholar.google.com/citations?user=Bgq0fbYAAAAJ), [Quanjun Chen](https://scholar.google.com/citations?user=_PKwzTwAAAAJ), [Renghe Jiang](https://www.renhejiang.com/), [**Huanchen Wang**](https://wanghchen.github.io), [Xuan Song](https://www.sustech.edu.cn/en/faculties/songxuan.html), Hao Tian
   
   *In 2022 IEEE International Conference on Big Data (Big Data)*
   
