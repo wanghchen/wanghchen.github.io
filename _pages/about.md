@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Huanchen Wang. I am a PhD candidate in the Department of Computer Science, City University of Hong Kong (<a href="https://www.cityu.edu.hk/">CityUHK</a>) from Sep. 2022 under CityU-SUSTech Joint PhD Programme, supervised by Prof. <a href="https://luzhc.github.io/">Zhicong Lu</a> (GMU, previously at CityUHK), Prof. <a href="https://cse.sustech.edu.cn/faculty/~mayx/">Yuxin Ma </a> (SUSTech), and <a href="https://www.cs.cityu.edu.hk/~zhichalu/">Zhichao Lu</a> (CityuHK). I am a member of DEER Lab and DVA Lab.
+My name is Huanchen Wang. I am a PhD candidate in the Department of Computer Science, City University of Hong Kong (<a href="https://www.cityu.edu.hk/">CityUHK</a>) from Sep. 2022 under CityU-SUSTech Joint PhD Programme, supervised by Prof. <a href="https://luzhc.github.io/">Zhicong Lu</a> (from George Mason University, previously at CityUHK), Prof. <a href="https://cse.sustech.edu.cn/faculty/~mayx/">Yuxin Ma</a> (from Southern University of Science and Technology), and <a href="https://www.cs.cityu.edu.hk/~zhichalu/">Zhichao Lu</a> (CityuHK). I am a member of DEER Lab and DVA Lab.
 
 I received my BEng degree from the Department of Computer Science and Engineering, Southern University of Science and Technology (<a href="https://www.sustech.edu.cn/">SUSTech</a>) in July, 2022, under the supervision of Professor [Xuan Song](https://www.sustech.edu.cn/en/faculties/songxuan.html).
 
@@ -28,6 +28,7 @@ My current research primarily focuses on Social Computing and Human-AI Collabora
 
 # News
 
+- *2025.02*: &nbsp;🎉🎉 One paper is accepted by ACM CSCW 2025.
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted by ACM CHI 2025.
 - *2024.10*: &nbsp;🎉🎉 One paper is accepted by ACM CSCW 2025.
 - 2024.05:  Attending to ACM CHI 2024 (Honolulu, Hawaii, USA)!
@@ -51,6 +52,14 @@ My current research primarily focuses on Social Computing and Human-AI Collabora
   </div>
   </div> -->
 
+- Polymind: Parallel Visual Diagramming with Large Language Models to Support Prewriting Through Microtasks
+  
+  [Qian Wan](https://llewynwan.github.io/), [Jiannan Li](https://jchrisli.github.io/), [**Huanchen Wang**](https://wanghchen.github.io), [Zhicong Lu](https://luzhc.github.io/)
+  
+  *In Proceedings of the ACM on Human-Computer Interaction (CSCW) (to appear at CSCW 2025)*
+  
+  [[pdf](https://arxiv.org/pdf/2502.09577)]
+  
 - HarmonyCut: Supporting Creative Chinese Paper-cutting Design with Form and Connotation Harmony
   
   [**Huanchen Wang**](https://wanghchen.github.io)\*, Tianrun Qiu\*, Jiaping Li, [Zhicong Lu](https://luzhc.github.io/),  [Yuxin Ma](https://cse.sustech.edu.cn/faculty/~mayx/)
@@ -67,7 +76,7 @@ My current research primarily focuses on Social Computing and Human-AI Collabora
 
   *In Proceedings of the ACM on Human-Computer Interaction (CSCW) (to appear at CSCW 2025)*
   
-  [<a href="/publications/cscw-danmodcap/danmodcap.pdf">pdf</a>]
+  [[pdf](https://arxiv.org/pdf/2408.02574)]
   
 - Critical Heritage Studies as a Lens to Understand Short Video Sharing of Intangible Cultural Heritage on Douyin
   
