@@ -28,6 +28,7 @@ My current research primarily focuses on Social Computing and Human-AI Collabora
 
 # News
 
+- *2025.04*: &nbsp;Attending to ACM CHI 2025 (Yokohama, Kanagawa, Japan)!
 - *2025.02*: &nbsp;🎉🎉 One paper is accepted by ACM CSCW 2025.
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted by ACM CHI 2025.
 - *2024.10*: &nbsp;🎉🎉 One paper is accepted by ACM CSCW 2025.
