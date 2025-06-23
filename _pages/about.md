@@ -20,7 +20,8 @@ My name is Huanchen Wang. I am a PhD candidate in the Department of Computer Sci
 
 I received my BEng degree from the Department of Computer Science and Engineering, Southern University of Science and Technology (<a href="https://www.sustech.edu.cn/">SUSTech</a>) in July, 2022, under the supervision of Professor [Xuan Song](https://www.sustech.edu.cn/en/faculties/songxuan.html).
 
-My current research primarily focuses on Social Computing and Human-AI Collaboration in the context of [Intangible Cultural Heritage (ICH)](https://ich.unesco.org/en/what-is-intangible-heritage-00003), as well as on Interactive Visual Analytics.
+My current research primarily focuses on Human-Computer Interaction (HCI) in the context of Creativity Supporting and Human-AI Collaboration, particularly as it relates to [Intangible Cultural Heritage (ICH)](https://ich.unesco.org/en/what-is-intangible-heritage-00003). I am also interested in Interactive Visual Analytics, with a focus on Explainable AI (XAI) and multi-modal models.
+
 <!-- I have published several papers at the ACM CHI.-->
 <!-- <a href='https://scholar.google.com/citations?user=bThdf0MAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://raw.githubusercontent.com/wanghchen/wanghchen.github.io/google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>  -->
 
@@ -38,6 +39,7 @@ My current research primarily focuses on Social Computing and Human-AI Collabora
 - *2022.10*: &nbsp;🎉🎉 Two papers are accepted by IEEE BigData 2022.
 
 <span class='anchor' id='-publications'></span>
+
 # Publications
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -57,7 +59,7 @@ My current research primarily focuses on Social Computing and Human-AI Collabora
   
   [Qian Wan](https://llewynwan.github.io/), [Jiannan Li](https://jchrisli.github.io/), [**Huanchen Wang**](https://wanghchen.github.io), [Zhicong Lu](https://luzhc.github.io/)
   
-  *In Proceedings of the ACM on Human-Computer Interaction (CSCW) (to appear at CSCW 2025)*
+  *Proceedings of the ACM on Human-Computer Interaction (CSCW), 2025. (to appear)*
   
   [[pdf](https://arxiv.org/pdf/2502.09577)]
   
@@ -67,15 +69,19 @@ My current research primarily focuses on Social Computing and Human-AI Collabora
 
   (* = equal contribution)
   
-  *In Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (CHI)*
+  *Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI), 2025*.
   
   [[pdf](https://arxiv.org/pdf/2502.07628)]
+  
+  [<a href="/publications/understanding-sci-bili/2023-CHI-BiliSci.pdf">presentation</a>]
+  
+  [<a href="/publications/understanding-sci-bili/2023-CHI-BiliSci.pdf">demo</a>]
   
 - DanModCap: Designing a Danmaku Moderation Tool for Video-Sharing Platforms that Leverages Impact Captions
   
   [Siying Hu](https://scholar.google.com/citations?user=BJg8enwAAAAJ), [**Huanchen Wang**](https://wanghchen.github.io), [Yu Zhang](https://scholar.google.com/citations?user=IoPD6n4AAAAJ), [Piaohong Wang](https://sites.google.com/view/wamgpiaohong/homepage), [Zhicong Lu](https://luzhc.github.io/)
 
-  *In Proceedings of the ACM on Human-Computer Interaction (CSCW) (to appear at CSCW 2025)*
+  *Proceedings of the ACM on Human-Computer Interaction, 9(2):1-27 (CSCW), 2025.* 
   
   [[pdf](https://arxiv.org/pdf/2408.02574)]
   
@@ -83,7 +89,7 @@ My current research primarily focuses on Social Computing and Human-AI Collabora
   
   [**Huanchen Wang**](https://wanghchen.github.io), [Minzhu Zhao](https://mindyzhaominzhu.github.io), Wanyang Hu, [Yuxin Ma](https://cse.sustech.edu.cn/faculty/~mayx/), [Zhicong Lu](https://luzhc.github.io/)
   
-  *In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI)*
+  *Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI), 2024.*
   
   [<a href="/publications/chs-ich-douyin/2024-CHI-CHSICH.pdf">pdf</a>]
   [<a href="/publications/chs-ich-douyin/2024-CHI-CHSICH.bib">bib</a>]
@@ -92,9 +98,9 @@ My current research primarily focuses on Social Computing and Human-AI Collabora
   
   [Yu Zhang](https://scholar.google.com/citations?user=IoPD6n4AAAAJ), [Changyang He](https://hechangyang.com/), [**Huanchen Wang**](https://wanghchen.github.io), [Zhicong Lu](https://luzhc.github.io/)
   
-  *In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI)*
+  *Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI), 2023.*
   
-  [<a href="https://www.youtube.com/watch?v=-KpemLOBt1s">video</a>]
+  [<a href="https://www.youtube.com/watch?v=-KpemLOBt1s">presentation</a>]
   [<a href="/publications/understanding-sci-bili/2023-CHI-BiliSci.pdf">pdf</a>]
   [<a href="/publications/understanding-sci-bili/2023-CHI-BiliSci.bib">bib</a>]
   
@@ -104,7 +110,7 @@ My current research primarily focuses on Social Computing and Human-AI Collabora
   
   (* = equal contribution)
   
-  *In 2022 IEEE International Conference on Big Data (Big Data)*
+  *IEEE International Conference on Big Data (Big Data), 2022.*
   
   [<a  href="/publications/geomagnetic-dataset/2022-IEEEBigData-Geomagnetic.pdf">pdf</a>]
   [<a  href="/publications/geomagnetic-dataset/2022-IEEEBigData-Geomagnetic.bib">bib</a>]
@@ -113,7 +119,7 @@ My current research primarily focuses on Social Computing and Human-AI Collabora
   
   [Zheng Dong](https://scholar.google.com/citations?user=Bgq0fbYAAAAJ), [Quanjun Chen](https://scholar.google.com/citations?user=_PKwzTwAAAAJ), [Renghe Jiang](https://www.renhejiang.com/), [**Huanchen Wang**](https://wanghchen.github.io), [Xuan Song](https://www.sustech.edu.cn/en/faculties/songxuan.html), Hao Tian
   
-  *In 2022 IEEE International Conference on Big Data (Big Data)*
+  *IEEE International Conference on Big Data (Big Data), 2022.*
   
   [<a href="/publications/latent-road-correlations/2022-IEEEBigData-Road.pdf">pdf</a>]
   [<a href="/publications/latent-road-correlations/2022-IEEEBigData-Road.bib">bib</a>]
@@ -133,6 +139,7 @@ My current research primarily focuses on Social Computing and Human-AI Collabora
 <span class='anchor' id='-services'></span>
 # Services
 
+- Reviewer of ACM UIST 2025.
 - Reviewer of CHCHI 2024.
 - Reviewer of ACM CSCW 2024, 2025.
 - Reviewer of ChinaVis 2024.
