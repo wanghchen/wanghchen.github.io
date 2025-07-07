@@ -71,11 +71,9 @@ My current research primarily focuses on Human-Computer Interaction (HCI) in the
   
   *Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI), 2025*.
   
-  [[pdf](https://arxiv.org/pdf/2502.07628)]
-  
-  [<a href="/publications/understanding-sci-bili/2023-CHI-BiliSci.pdf">presentation</a>]
-  
-  [<a href="/publications/understanding-sci-bili/2023-CHI-BiliSci.pdf">demo</a>]
+  [<a href="https://www.youtube.com/watch?v=0JNOF7ceFig">presentation</a>]
+  [<a href="/publications/papercutting/video-figure.mp4">demo</a>]
+  [<a href="/publications/papercutting/harmonycut.pdf">pdf</a>]
   
 - DanModCap: Designing a Danmaku Moderation Tool for Video-Sharing Platforms that Leverages Impact Captions
   
@@ -102,7 +100,6 @@ My current research primarily focuses on Human-Computer Interaction (HCI) in the
   
   [<a href="https://www.youtube.com/watch?v=-KpemLOBt1s">presentation</a>]
   [<a href="/publications/understanding-sci-bili/2023-CHI-BiliSci.pdf">pdf</a>]
-  [<a href="/publications/understanding-sci-bili/2023-CHI-BiliSci.bib">bib</a>]
   
 - A Geomagnetic Sensor Dataset for Traffic Flow Prediction
   
@@ -113,8 +110,7 @@ My current research primarily focuses on Human-Computer Interaction (HCI) in the
   *IEEE International Conference on Big Data (Big Data), 2022.*
   
   [<a  href="/publications/geomagnetic-dataset/2022-IEEEBigData-Geomagnetic.pdf">pdf</a>]
-  [<a  href="/publications/geomagnetic-dataset/2022-IEEEBigData-Geomagnetic.bib">bib</a>]
-
+  
 - Learning Latent Road Correlations from Trajectories
   
   [Zheng Dong](https://scholar.google.com/citations?user=Bgq0fbYAAAAJ), [Quanjun Chen](https://scholar.google.com/citations?user=_PKwzTwAAAAJ), [Renghe Jiang](https://www.renhejiang.com/), [**Huanchen Wang**](https://wanghchen.github.io), [Xuan Song](https://www.sustech.edu.cn/en/faculties/songxuan.html), Hao Tian
@@ -122,7 +118,6 @@ My current research primarily focuses on Human-Computer Interaction (HCI) in the
   *IEEE International Conference on Big Data (Big Data), 2022.*
   
   [<a href="/publications/latent-road-correlations/2022-IEEEBigData-Road.pdf">pdf</a>]
-  [<a href="/publications/latent-road-correlations/2022-IEEEBigData-Road.bib">bib</a>]
 
 <span class='anchor' id='-honors-and-awards'></span>
 # Honors and Awards
