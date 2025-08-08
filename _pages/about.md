@@ -27,7 +27,7 @@ My current research primarily focuses on Human-Computer Interaction (HCI) in the
 
 <span class='anchor' id='-news'></span>
 
-# News
+# 🔥 News
 
 - *2025.07*: &nbsp;🎉🎉 One paper is accepted by IEEE VIS 2025. Congrats to all the co-authors! 
 - 2025.07: 🎉🎉 One paper is accepted by ACM UIST 2025. Thanks to all the co-authors! 
@@ -42,7 +42,7 @@ My current research primarily focuses on Human-Computer Interaction (HCI) in the
 
 <span class='anchor' id='-publications'></span>
 
-# Publications
+# 📝 Publications
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 
@@ -137,19 +137,19 @@ My current research primarily focuses on Human-Computer Interaction (HCI) in the
   [<a href="/publications/latent-road-correlations/2022-IEEEBigData-Road.pdf">pdf</a>]
 
 <span class='anchor' id='-honors-and-awards'></span>
-# Honors and Awards
+# 🎖 Honors and Awards
 
 - *2022-2026* Postgraduate Scholarship, SUSTech & CityU.
 - *2018* Third-class Outstanding Freshmen Scholarship, SUSTech.
 
 <span class='anchor' id='-educations'></span>
-# Educations
+# 📖 Educations
 
 - *2022.09 - now*, PhD candidate, Department of Computer Science, City University of Hong Kong, Hong Kong SAR, China.
 - *2018.09 - 2022.07*, Undergraduate, Department of Computer Science and Engineering, Southern University of Science and Technology, Shenzhen, China.
 
 <span class='anchor' id='-services'></span>
-# Services
+# 🔨 Services
 
 - Reviewer of ACM UIST 2025.
 - Reviewer of CHCHI 2024.
@@ -159,7 +159,7 @@ My current research primarily focuses on Human-Computer Interaction (HCI) in the
 - Reviewer of ACM CHI 2023, 2024, 2025.
 
 <span class='anchor' id='-teaching-experiences'></span>
-# Teaching Experiences
+# 🏫 Teaching Experiences
 
 - Spring 2023: TA for CS2303 Data Structures for Media (CityU)
 - Fall 2022: TA for JC2066 IT Professionals: Ethical, Legal and Social Issues (CityU)
