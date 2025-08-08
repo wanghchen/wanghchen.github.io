@@ -57,7 +57,7 @@ My current research primarily focuses on Human-Computer Interaction (HCI) in the
   </div>
   </div> -->
 
-- VisMoDAl: Visual Analytics for Evaluating and Improving Corruption Robustness of Vision-Language Models
+- **VisMoDAl: Visual Analytics for Evaluating and Improving Corruption Robustness of Vision-Language Models**
   
   [**Huanchen Wang**](https://wanghchen.github.io)\*, Wencheng Zhang\*, Zhiqiang Wang, [Zhicong Lu](https://luzhc.github.io/),  [Yuxin Ma](https://cse.sustech.edu.cn/faculty/~mayx/)
   
@@ -65,7 +65,7 @@ My current research primarily focuses on Human-Computer Interaction (HCI) in the
   
   *IEEE Transactions on Visualization and Computer Graphics (VIS '25), 2026. (to appear) *
   
-- RAGTrace: Understanding and Refining Retrieval-Generation Dynamics in Retrieval-Augmented Generation
+- **RAGTrace: Understanding and Refining Retrieval-Generation Dynamics in Retrieval-Augmented Generation**
   
   Sizhe Chen\*, Jiaping Li\*, [**Huanchen Wang**](https://wanghchen.github.io),  [Yuxin Ma](https://cse.sustech.edu.cn/faculty/~mayx/)
   
@@ -73,7 +73,7 @@ My current research primarily focuses on Human-Computer Interaction (HCI) in the
   
   *Proceedings of the 37th Annual ACM Symposium on User Interface Software and Technology (UIST '25), 2025. (to appear)*
   
-- Polymind: Parallel Visual Diagramming with Large Language Models to Support Prewriting Through Microtasks
+- **Polymind: Parallel Visual Diagramming with Large Language Models to Support Prewriting Through Microtasks**
   
   [Qian Wan](https://llewynwan.github.io/), [Jiannan Li](https://jchrisli.github.io/), [**Huanchen Wang**](https://wanghchen.github.io), [Zhicong Lu](https://luzhc.github.io/)
   
@@ -81,7 +81,7 @@ My current research primarily focuses on Human-Computer Interaction (HCI) in the
   
   [[pdf](https://arxiv.org/pdf/2502.09577)]
   
-- HarmonyCut: Supporting Creative Chinese Paper-cutting Design with Form and Connotation Harmony
+- **HarmonyCut: Supporting Creative Chinese Paper-cutting Design with Form and Connotation Harmony**
   
   [**Huanchen Wang**](https://wanghchen.github.io)\*, Tianrun Qiu\*, Jiaping Li, [Zhicong Lu](https://luzhc.github.io/),  [Yuxin Ma](https://cse.sustech.edu.cn/faculty/~mayx/)
 
@@ -93,7 +93,7 @@ My current research primarily focuses on Human-Computer Interaction (HCI) in the
   [<a href="/publications/papercutting/video-figure.mp4">demo</a>]
   [<a href="/publications/papercutting/harmonycut.pdf">pdf</a>]
   
-- DanModCap: Designing a Danmaku Moderation Tool for Video-Sharing Platforms that Leverages Impact Captions
+- **DanModCap: Designing a Danmaku Moderation Tool for Video-Sharing Platforms that Leverages Impact Captions**
   
   [Siying Hu](https://scholar.google.com/citations?user=BJg8enwAAAAJ), [**Huanchen Wang**](https://wanghchen.github.io), [Yu Zhang](https://scholar.google.com/citations?user=IoPD6n4AAAAJ), [Piaohong Wang](https://sites.google.com/view/wamgpiaohong/homepage), [Zhicong Lu](https://luzhc.github.io/)
 
@@ -101,7 +101,7 @@ My current research primarily focuses on Human-Computer Interaction (HCI) in the
   
   [[pdf](https://arxiv.org/pdf/2408.02574)]
   
-- Critical Heritage Studies as a Lens to Understand Short Video Sharing of Intangible Cultural Heritage on Douyin
+- **Critical Heritage Studies as a Lens to Understand Short Video Sharing of Intangible Cultural Heritage on Douyin**
   
   [**Huanchen Wang**](https://wanghchen.github.io), [Minzhu Zhao](https://mindyzhaominzhu.github.io), Wanyang Hu, [Yuxin Ma](https://cse.sustech.edu.cn/faculty/~mayx/), [Zhicong Lu](https://luzhc.github.io/)
   
@@ -109,7 +109,7 @@ My current research primarily focuses on Human-Computer Interaction (HCI) in the
   
   [<a href="/publications/chs-ich-douyin/2024-CHI-CHSICH.pdf">pdf</a>]
   
-- Understanding Communication Strategies and Viewer Engagement with Science Knowledge Videos on Bilibili
+- **Understanding Communication Strategies and Viewer Engagement with Science Knowledge Videos on Bilibili**
   
   [Yu Zhang](https://scholar.google.com/citations?user=IoPD6n4AAAAJ), [Changyang He](https://hechangyang.com/), [**Huanchen Wang**](https://wanghchen.github.io), [Zhicong Lu](https://luzhc.github.io/)
   
@@ -118,7 +118,7 @@ My current research primarily focuses on Human-Computer Interaction (HCI) in the
   [<a href="https://www.youtube.com/watch?v=-KpemLOBt1s">presentation</a>]
   [<a href="/publications/understanding-sci-bili/2023-CHI-BiliSci.pdf">pdf</a>]
   
-- A Geomagnetic Sensor Dataset for Traffic Flow Prediction
+- **A Geomagnetic Sensor Dataset for Traffic Flow Prediction**
   
   [**Huanchen Wang**](https://wanghchen.github.io)\*, [Quanjun Chen](https://scholar.google.com/citations?user=_PKwzTwAAAAJ)\*, [Zheng Dong](https://scholar.google.com/citations?user=Bgq0fbYAAAAJ), [Xuan Song](https://www.sustech.edu.cn/en/faculties/songxuan.html), Hao Tian, Donglong Yang, Manxia Liu
   
@@ -128,7 +128,7 @@ My current research primarily focuses on Human-Computer Interaction (HCI) in the
   
   [<a  href="/publications/geomagnetic-dataset/2022-IEEEBigData-Geomagnetic.pdf">pdf</a>]
   
-- Learning Latent Road Correlations from Trajectories
+- **Learning Latent Road Correlations from Trajectories**
   
   [Zheng Dong](https://scholar.google.com/citations?user=Bgq0fbYAAAAJ), [Quanjun Chen](https://scholar.google.com/citations?user=_PKwzTwAAAAJ), [Renghe Jiang](https://www.renhejiang.com/), [**Huanchen Wang**](https://wanghchen.github.io), [Xuan Song](https://www.sustech.edu.cn/en/faculties/songxuan.html), Hao Tian
   
