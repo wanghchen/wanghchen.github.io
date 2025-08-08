@@ -63,7 +63,7 @@ My current research primarily focuses on Human-Computer Interaction (HCI) in the
   
   (* = equal contribution)
   
-  *IEEE Transactions on Visualization and Computer Graphics (VIS'25), 2026. (to appear) *
+  *IEEE Transactions on Visualization and Computer Graphics (VIS '25), 2026. (to appear) *
   
 - RAGTrace: Understanding and Refining Retrieval-Generation Dynamics in Retrieval-Augmented Generation
   
@@ -71,13 +71,13 @@ My current research primarily focuses on Human-Computer Interaction (HCI) in the
   
   (* = equal contribution)
   
-  *Proceedings of the 37th Annual ACM Symposium on User Interface Software and Technology (UIST '25'), 2025. (to appear)*
+  *Proceedings of the 37th Annual ACM Symposium on User Interface Software and Technology (UIST '25), 2025. (to appear)*
   
 - Polymind: Parallel Visual Diagramming with Large Language Models to Support Prewriting Through Microtasks
   
   [Qian Wan](https://llewynwan.github.io/), [Jiannan Li](https://jchrisli.github.io/), [**Huanchen Wang**](https://wanghchen.github.io), [Zhicong Lu](https://luzhc.github.io/)
   
-  *Proceedings of the ACM on Human-Computer Interaction (CSCW '25'), 2025. (to appear)*
+  *Proceedings of the ACM on Human-Computer Interaction (CSCW '25), 2025. (to appear)*
   
   [[pdf](https://arxiv.org/pdf/2502.09577)]
   
@@ -87,7 +87,7 @@ My current research primarily focuses on Human-Computer Interaction (HCI) in the
 
   (* = equal contribution)
   
-  *Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI '25'), 2025*.
+  *Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI '25), 2025*.
   
   [<a href="https://www.youtube.com/watch?v=0JNOF7ceFig">presentation</a>]
   [<a href="/publications/papercutting/video-figure.mp4">demo</a>]
@@ -97,7 +97,7 @@ My current research primarily focuses on Human-Computer Interaction (HCI) in the
   
   [Siying Hu](https://scholar.google.com/citations?user=BJg8enwAAAAJ), [**Huanchen Wang**](https://wanghchen.github.io), [Yu Zhang](https://scholar.google.com/citations?user=IoPD6n4AAAAJ), [Piaohong Wang](https://sites.google.com/view/wamgpiaohong/homepage), [Zhicong Lu](https://luzhc.github.io/)
 
-  *Proceedings of the ACM on Human-Computer Interaction, 9(2):1-27 (CSCW '25'), 2025.* 
+  *Proceedings of the ACM on Human-Computer Interaction, 9(2):1-27 (CSCW '25), 2025.* 
   
   [[pdf](https://arxiv.org/pdf/2408.02574)]
   
@@ -105,7 +105,7 @@ My current research primarily focuses on Human-Computer Interaction (HCI) in the
   
   [**Huanchen Wang**](https://wanghchen.github.io), [Minzhu Zhao](https://mindyzhaominzhu.github.io), Wanyang Hu, [Yuxin Ma](https://cse.sustech.edu.cn/faculty/~mayx/), [Zhicong Lu](https://luzhc.github.io/)
   
-  *Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI '24'), 2024.*
+  *Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI '24), 2024.*
   
   [<a href="/publications/chs-ich-douyin/2024-CHI-CHSICH.pdf">pdf</a>]
   
@@ -113,7 +113,7 @@ My current research primarily focuses on Human-Computer Interaction (HCI) in the
   
   [Yu Zhang](https://scholar.google.com/citations?user=IoPD6n4AAAAJ), [Changyang He](https://hechangyang.com/), [**Huanchen Wang**](https://wanghchen.github.io), [Zhicong Lu](https://luzhc.github.io/)
   
-  *Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI '23'), 2023.*
+  *Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI '23), 2023.*
   
   [<a href="https://www.youtube.com/watch?v=-KpemLOBt1s">presentation</a>]
   [<a href="/publications/understanding-sci-bili/2023-CHI-BiliSci.pdf">pdf</a>]
@@ -124,7 +124,7 @@ My current research primarily focuses on Human-Computer Interaction (HCI) in the
   
   (* = equal contribution)
   
-  *IEEE International Conference on Big Data (Big Data '22'), 2022.*
+  *IEEE International Conference on Big Data (Big Data '22), 2022.*
   
   [<a  href="/publications/geomagnetic-dataset/2022-IEEEBigData-Geomagnetic.pdf">pdf</a>]
   
@@ -132,7 +132,7 @@ My current research primarily focuses on Human-Computer Interaction (HCI) in the
   
   [Zheng Dong](https://scholar.google.com/citations?user=Bgq0fbYAAAAJ), [Quanjun Chen](https://scholar.google.com/citations?user=_PKwzTwAAAAJ), [Renghe Jiang](https://www.renhejiang.com/), [**Huanchen Wang**](https://wanghchen.github.io), [Xuan Song](https://www.sustech.edu.cn/en/faculties/songxuan.html), Hao Tian
   
-  *IEEE International Conference on Big Data (Big Data '22'), 2022.*
+  *IEEE International Conference on Big Data (Big Data '22), 2022.*
   
   [<a href="/publications/latent-road-correlations/2022-IEEEBigData-Road.pdf">pdf</a>]
 
