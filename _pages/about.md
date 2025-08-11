@@ -27,18 +27,71 @@ My current research primarily focuses on Human-Computer Interaction (HCI) in the
 
 <span class='anchor' id='-news'></span>
 
-# 🔥 News
+````html
+<body>
+<h1>🔥 News</h1>
 
-- *2025.07*: &nbsp;🎉🎉 One paper is accepted by IEEE VIS 2025. Congrats to all the co-authors! 
-- 2025.07: 🎉🎉 One paper is accepted by ACM UIST 2025. Thanks to all the co-authors! 
-- *2025.04*: &nbsp;Attending to ACM CHI 2025 (Yokohama, Kanagawa, Japan)!
-- *2025.02*: &nbsp;🎉🎉 One paper is accepted by ACM CSCW 2025. Thanks to all the co-authors! 
-- *2025.01*: &nbsp;🎉🎉 One paper is accepted by ACM CHI 2025. Congrats to all the co-authors! 
-- *2024.10*: &nbsp;🎉🎉 One paper is accepted by ACM CSCW 2025. Thanks to all the co-authors! 
-- 2024.05:  Attending to ACM CHI 2024 (Honolulu, Hawaii, USA)!
-- *2024.01*: &nbsp;🎉🎉 One paper is accepted by ACM CHI 2024. Congrats to all the co-authors! 
-- *2023.01*: &nbsp;🎉🎉 One paper is accepted by ACM CHI 2023. Thanks to all the co-authors! 
-- *2022.10*: &nbsp;🎉🎉 Two papers are accepted by IEEE BigData 2022. Thanks to all the co-authors! 
+<ul id="news-list">
+<li>
+<strong>2025.07</strong>: 🎉🎉 One paper is accepted by IEEE VIS 2025. Congrats to all the co-authors! 
+</li>
+<li>
+<strong>2025.07</strong>: 🎉🎉 One paper is accepted by ACM UIST 2025. Thanks to all the co-authors! 
+</li>
+<li>
+<strong>2025.04</strong>: Attending to ACM CHI 2025 (Yokohama, Kanagawa, Japan)!
+</li>
+<li>
+<strong>2025.02</strong>: 🎉🎉 One paper is accepted by ACM CSCW 2025. Thanks to all the co-authors! 
+</li>
+<li>
+<strong>2025.01</strong>: 🎉🎉 One paper is accepted by ACM CHI 2025. Congrats to all the co-authors! 
+</li>
+<li>
+<strong>2024.10</strong>: 🎉🎉 One paper is accepted by ACM CSCW 2025. Thanks to all the co-authors! 
+</li>
+<li style="display:none;">
+<strong>2024.05</strong>: Attending to ACM CHI 2024 (Honolulu, Hawaii, USA)!
+</li>
+<li style="display:none;">
+<strong>2024.01</strong>: 🎉🎉  One paper is accepted by ACM CHI 2024. Congrats to all the co-authors! 
+</li>
+<li style="display:none;">
+<strong>2023.01</strong>: 🎉🎉 One paper is accepted by ACM CHI 2023. Thanks to all the co-authors! 
+</li>
+<li style="display:none;">
+<strong>2022.10</strong>: 🎉🎉 Two papers are accepted by IEEE BigData 2022. Thanks to all the co-authors! 
+</li>
+</ul>
+
+<div>
+<a href="#" onclick="toggleNews(); return false;" id="more-link">More</a>
+</div>
+
+<script>
+function toggleNews() {
+const hiddenItems = document.querySelectorAll('#news-list li[style="display:none;"]');
+const moreLink = document.getElementById('more-link');
+
+if (hiddenItems.length > 0) {
+// 显示所有隐藏的新闻
+hiddenItems.forEach(item => {
+    item.style.display = 'list-item';
+});
+moreLink.textContent = 'Collapse';
+} else {
+// 获取所有列表项
+const allItems = document.querySelectorAll('#news-list li');
+// 隐藏第7条及之后的新闻
+for (let i = 6; i < allItems.length; i++) {
+    allItems[i].style.display = 'none';
+}
+moreLink.textContent = 'More';
+}
+}
+</script>
+</body>
+````
 
 <span class='anchor' id='-publications'></span>
 
@@ -63,7 +116,7 @@ My current research primarily focuses on Human-Computer Interaction (HCI) in the
   
   (* = equal contribution)
   
-  *IEEE Transactions on Visualization and Computer Graphics (VIS '25), 2026. (to appear) *
+  *IEEE Transactions on Visualization and Computer Graphics (VIS '25), 2026. (to appear)*
   
 - **RAGTrace: Understanding and Refining Retrieval-Generation Dynamics in Retrieval-Augmented Generation**
   
