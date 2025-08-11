@@ -27,7 +27,7 @@ My current research primarily focuses on Human-Computer Interaction (HCI) in the
 
 <span class='anchor' id='-news'></span>
 
-````html
+
 <body>
 <h1>🔥 News</h1>
 
@@ -74,15 +74,12 @@ const hiddenItems = document.querySelectorAll('#news-list li[style="display:none
 const moreLink = document.getElementById('more-link');
 
 if (hiddenItems.length > 0) {
-// 显示所有隐藏的新闻
 hiddenItems.forEach(item => {
     item.style.display = 'list-item';
 });
 moreLink.textContent = 'Collapse';
 } else {
-// 获取所有列表项
 const allItems = document.querySelectorAll('#news-list li');
-// 隐藏第7条及之后的新闻
 for (let i = 6; i < allItems.length; i++) {
     allItems[i].style.display = 'none';
 }
@@ -91,7 +88,6 @@ moreLink.textContent = 'More';
 }
 </script>
 </body>
-````
 
 <span class='anchor' id='-publications'></span>
 
