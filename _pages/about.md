@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Huanchen Wang. I am a Ph.D. candidate in the Department of Computer Science, City University of Hong Kong (<a href="https://www.cityu.edu.hk/">CityUHK</a>) from Sep. 2022 under CityU-SUSTech Joint PhD Programme, supervised by Prof. <a href="https://cse.sustech.edu.cn/faculty/~mayx/">Yuxin Ma</a> (from Southern University of Science and Technology), Prof. <a href="https://luzhc.github.io/">Zhicong Lu</a> (from George Mason University, previously at CityUHK),, and <a href="https://www.cs.cityu.edu.hk/~zhichalu/">Zhichao Lu</a> (CityuHK). I am a member of DEER Lab and DVA Lab.
+My name is Huanchen Wang (王焕辰). I am a Ph.D. candidate in the Department of Computer Science, City University of Hong Kong (<a href="https://www.cityu.edu.hk/">CityUHK</a>) from Sep. 2022 under CityU-SUSTech Joint PhD Programme, supervised by Prof. <a href="https://cse.sustech.edu.cn/faculty/~mayx/">Yuxin Ma</a> (from Southern University of Science and Technology), Prof. <a href="https://luzhc.github.io/">Zhicong Lu</a> (from George Mason University, previously at CityUHK),, and <a href="https://www.cs.cityu.edu.hk/~zhichalu/">Zhichao Lu</a> (CityuHK). I am a member of DEER Lab and DVA Lab.
 
 I received my BEng degree from the Department of Computer Science and Engineering, Southern University of Science and Technology (<a href="https://www.sustech.edu.cn/">SUSTech</a>) in July, 2022, under the supervision of Professor [Xuan Song](https://www.sustech.edu.cn/en/faculties/songxuan.html).
 
