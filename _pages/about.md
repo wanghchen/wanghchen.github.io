@@ -119,9 +119,8 @@ IEEE Transactions on Visualization and Computer Graphics (VIS 2025), 2026. (to a
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST  2025</div><img src='images/ragtrace.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [RAGTrace: Understanding and Refining Retrieval-Generation Dynamics in Retrieval-Augmented Generation](https://arxiv.org/pdf/2508.06056) \\
-Sizhe Chen\*, Jiaping Li\*, [**Huanchen Wang**](https://wanghchen.github.io),  [Yuxin Ma](https://cse.sustech.edu.cn/faculty/~mayx/)
+Sizhe Cheng\*, Jiaping Li\*, [**Huanchen Wang**](https://wanghchen.github.io),  [Yuxin Ma](https://cse.sustech.edu.cn/faculty/~mayx/)
 
 (* = equal contribution)
 
@@ -133,7 +132,6 @@ Proceedings of the 37th Annual ACM Symposium on User Interface Software and Tech
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW  2025</div><img src='images/polymind.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [Polymind: Parallel Visual Diagramming with Large Language Models to Support Prewriting Through Microtasks](https://arxiv.org/pdf/2502.09577) \\
 [Qian Wan](https://llewynwan.github.io/), [Jiannan Li](https://jchrisli.github.io/), [**Huanchen Wang**](https://wanghchen.github.io), [Zhicong Lu](https://luzhc.github.io/)
 
