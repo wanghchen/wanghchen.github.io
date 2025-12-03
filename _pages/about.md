@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Huanchen Wang (王焕辰). I am a Ph.D. candidate in the Department of Computer Science, City University of Hong Kong (<a href="https://www.cityu.edu.hk/">CityUHK</a>) from Sep. 2022 under CityU-SUSTech Joint PhD Programme, supervised by Prof. <a href="https://cse.sustech.edu.cn/faculty/~mayx/">Yuxin Ma</a> (from Southern University of Science and Technology), Prof. <a href="https://luzhc.github.io/">Zhicong Lu</a> (from George Mason University, previously at CityUHK),, and <a href="https://www.cs.cityu.edu.hk/~zhichalu/">Zhichao Lu</a> (CityuHK). I am a member of DEER Lab and DVA Lab.
+My name is Huanchen Wang (王焕辰). I am a Ph.D. candidate in the Department of Computer Science, City University of Hong Kong (<a href="https://www.cityu.edu.hk/">CityUHK</a>) from Sep. 2022 under CityU-SUSTech Joint PhD Programme, supervised by Prof. <a href="https://cse.sustech.edu.cn/faculty/~mayx/">Yuxin Ma</a> (from Southern University of Science and Technology), Prof. <a href="https://luzhc.github.io/">Zhicong Lu</a> (from George Mason University, previously at CityUHK), and <a href="https://www.cs.cityu.edu.hk/~zhichalu/">Zhichao Lu</a> (CityuHK). I am a member of DEER Lab and DVA Lab.
 
 I received my BEng degree from the Department of Computer Science and Engineering, Southern University of Science and Technology (<a href="https://www.sustech.edu.cn/">SUSTech</a>) in July, 2022, under the supervision of Professor [Xuan Song](https://www.sustech.edu.cn/en/faculties/songxuan.html).
 
@@ -149,7 +149,7 @@ Proceedings of the ACM on Human-Computer Interaction, 9(7):1-29  (CSCW 2025), 20
 
 Proceedings of the ACM on Human-Computer Interaction, 9(2):1-27 (CSCW 2025), 2025.
 
-[<a href="https://dl.acm.org/doi/10.1145/3706598.3714159">ACM Digital Library</a>] | [<a href="https://arxiv.org/pdf/2408.02574">arxiv</a>] 
+[<a href="https://dl.acm.org/doi/10.1145/3710954">ACM Digital Library</a>] | [<a href="https://arxiv.org/pdf/2408.02574">arxiv</a>] 
 </div>
 </div>
 
@@ -163,7 +163,7 @@ Proceedings of the ACM on Human-Computer Interaction, 9(2):1-27 (CSCW 2025), 202
 
 Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI 2025), 2025.
 
-[<a href="https://dl.acm.org/doi/10.1145/3710954">ACM Digital Library</a>] | [<a href="https://arxiv.org/pdf/2502.07628">arxiv</a>] |   [<a href="https://www.youtube.com/watch?v=0JNOF7ceFig">presentation</a>] | [<a href="/publications/papercutting/video-figure.mp4">demo</a>]
+[<a href="https://dl.acm.org/doi/10.1145/3706598.3714159">ACM Digital Library</a>] | [<a href="https://arxiv.org/pdf/2502.07628">arxiv</a>] |   [<a href="https://www.youtube.com/watch?v=0JNOF7ceFig">presentation</a>] | [<a href="/publications/papercutting/video-figure.mp4">demo</a>]
 </div>
 </div>
 
