@@ -30,6 +30,9 @@ My current research primarily focuses on Human-Computer Interaction (HCI) in the
 
 <ul id="news-list">
 <li>
+<strong>2026.04</strong>: Attending to ACM CHI 2025 (Barcelona, Spain)!
+</li>    
+<li>
 <strong>2025.11</strong>: Attending to IEEE VIS 2025 (Vienna, Austria)!
 </li>
 <li>
@@ -44,7 +47,7 @@ My current research primarily focuses on Human-Computer Interaction (HCI) in the
 <li>
 <strong>2025.04</strong>: Attending to ACM CHI 2025 (Yokohama, Kanagawa, Japan)!
 </li>
-<li>
+<li class="hidden-item">
 <strong>2025.02</strong>: 🎉🎉 One paper is accepted by ACM CSCW 2025. Thanks to all the co-authors! 
 </li>
 <li  class="hidden-item">
@@ -66,9 +69,36 @@ My current research primarily focuses on Human-Computer Interaction (HCI) in the
 <strong>2022.10</strong>: 🎉🎉 Two papers are accepted by IEEE BigData 2022. Thanks to all the co-authors! 
 </li>
 </ul>
-<div>
-	<a href="#" onclick="toggleNews(); return false;" id="more-link">More</a>
+<div class="news-toggle-wrap">
+  <button id="more-link" class="news-toggle-minimal" aria-expanded="false" type="button" onclick="toggleNews()">
+    <span class="label">Show more</span>
+    <span class="arrow">v</span>
+  </button>
 </div>
+
+
+<style>
+  .news-toggle-wrap { margin-top: 10px; }
+
+  .news-toggle-minimal{
+    display:inline-flex; align-items:center; gap:6px;
+    padding:6px 14px;
+    border:1px solid #d0d7de;
+    border-radius:999px;
+    background:#f6f8fa;
+    color:#24292f;
+    font-size:14px; line-height:1;
+    cursor:pointer;
+    transition:background .2s, box-shadow .2s, transform .15s;
+  }
+  .news-toggle-minimal:hover{ background:#eef2f6; box-shadow:0 2px 8px rgba(0,0,0,.08); }
+  .news-toggle-minimal:active{ transform:translateY(1px); }
+  .news-toggle-minimal:focus-visible{ outline:2px solid #4c9ffe; outline-offset:2px; }
+
+  .news-toggle-minimal .arrow{ transition:transform .2s ease; }
+  .news-toggle-minimal[aria-expanded="true"] .arrow{ transform:rotate(180deg); }
+</style>
+
 
 <script>         
     // 页面加载时初始化隐藏项         
@@ -80,19 +110,22 @@ My current research primarily focuses on Human-Computer Interaction (HCI) in the
     });                  
     function toggleNews() {             
         const hiddenItems = document.getElementsByClassName('hidden-item');             
-        const moreLink = document.getElementById('more-link');                          
+        const moreLink = document.getElementById('more-link');
+        const label = moreLink.querySelector('.label');                          
         if (hiddenItems[0].style.display === 'none') {                 
             // 显示所有隐藏项                 
             for (let item of hiddenItems) {                     
                 item.style.display = 'list-item';                 
             }                 
-            moreLink.textContent = 'Collapse';             
+            label.textContent = 'Show less';
+            moreLink.setAttribute('aria-expanded', 'true');             
         } else {                 
             // 隐藏所有项                 
             for (let item of hiddenItems) {                     
                 item.style.display = 'none';                 
             }                 
-            moreLink.textContent = 'More';             
+            label.textContent = 'Show more';
+            moreLink.setAttribute('aria-expanded', 'false');             
         }         
     }     
 </script>
@@ -111,9 +144,9 @@ My current research primarily focuses on Human-Computer Interaction (HCI) in the
 
 (* = equal contribution)
 
-IEEE Transactions on Visualization and Computer Graphics (VIS 2025), 2026. (to appear)
+IEEE Transactions on Visualization and Computer Graphics, 32(1):615-625 (VIS 2025), 2026.
 
-[<a href="https://arxiv.org/pdf/2509.14571">arxiv</a>] | [<a href="/publications/vismodal/vismodal.mp4">demo</a>]
+[[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/11264374) [arxiv] | [<a href="/publications/vismodal/vismodal.mp4">demo</a>]
 </div>
 </div>
 
@@ -234,8 +267,10 @@ Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI
 - Reviewer of ChinaVis 2024.
 
 <span class='anchor' id='-teaching-experiences'></span>
+
 # 🏫 Teaching Experiences
 
+- Spring 2026: TA for CS5491 Artificial Intelligence (CityU)
 - Fall 2025: TA for CS5489 Machine Learning: Algorithm & Applications (CityU)
 - Spring 2023: TA for CS2303 Data Structures for Media (CityU)
 - Fall 2022: TA for JC2066 IT Professionals: Ethical, Legal and Social Issues (CityU)
