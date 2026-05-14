@@ -72,14 +72,13 @@ My current research primarily focuses on Human-Computer Interaction (HCI) in the
 <div class="news-toggle-wrap">
   <button id="more-link" class="news-toggle-minimal" aria-expanded="false" type="button" onclick="toggleNews()">
     <span class="label">Show more</span>
-    <span class="arrow">v</span>
   </button>
 </div>
 
 
+
 <style>
   .news-toggle-wrap { margin-top: 10px; }
-
   .news-toggle-minimal{
     display:inline-flex; align-items:center; gap:6px;
     padding:6px 14px;
@@ -94,9 +93,6 @@ My current research primarily focuses on Human-Computer Interaction (HCI) in the
   .news-toggle-minimal:hover{ background:#eef2f6; box-shadow:0 2px 8px rgba(0,0,0,.08); }
   .news-toggle-minimal:active{ transform:translateY(1px); }
   .news-toggle-minimal:focus-visible{ outline:2px solid #4c9ffe; outline-offset:2px; }
-
-  .news-toggle-minimal .arrow{ transition:transform .2s ease; }
-  .news-toggle-minimal[aria-expanded="true"] .arrow{ transform:rotate(180deg); }
 </style>
 
 
@@ -146,7 +142,7 @@ My current research primarily focuses on Human-Computer Interaction (HCI) in the
 
 IEEE Transactions on Visualization and Computer Graphics, 32(1):615-625 (VIS 2025), 2026.
 
-[[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/11264374) [arxiv] | [<a href="/publications/vismodal/vismodal.mp4">demo</a>]
+[[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/11264374) | [[arxiv]](https://arxiv.org/abs/2509.14571) | [<a href="/publications/vismodal/vismodal.mp4">demo</a>]
 </div>
 </div>
 
