@@ -30,7 +30,7 @@ My current research primarily focuses on Human-Computer Interaction (HCI) in the
 
 <ul id="news-list">
 <li>
-<strong>2026.04</strong>: Attending to ACM CHI 2025 (Barcelona, Spain)!
+<strong>2026.04</strong>: Attending to ACM CHI 2026 (Barcelona, Spain)!
 </li>    
 <li>
 <strong>2025.11</strong>: Attending to IEEE VIS 2025 (Vienna, Austria)!
