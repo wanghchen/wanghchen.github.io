@@ -20,7 +20,9 @@ My name is Huanchen Wang (王焕辰). I am currently a Ph.D. candidate in the De
 
 I received my BEng degree from the Department of Computer Science and Engineering, Southern University of Science and Technology (<a href="https://www.sustech.edu.cn/">SUSTech</a>) in July, 2022, under the supervision of Professor [Xuan Song](https://www.sustech.edu.cn/en/faculties/songxuan.html).
 
-My current research primarily focuses on Human-Computer Interaction (HCI) in the context of Human-AI Collaboration and Creativity Supporting, particularly as it relates to [Intangible Cultural Heritage (ICH)](https://ich.unesco.org/en/what-is-intangible-heritage-00003). I am also interested in Interactive Visual Analytics, with a focus on Explainable AI (XAI) and multi-modal models. Feel free to reach out to me if you have any questions. **I am currently seeking a postdoctoral position.**
+My current research primarily focuses on Human-Computer Interaction (HCI) in the context of Human-AI Collaboration and Creativity Supporting, particularly as it relates to [Intangible Cultural Heritage (ICH)](https://ich.unesco.org/en/what-is-intangible-heritage-00003). I am also interested in Interactive Visual Analytics, with a focus on Explainable AI (XAI) and multi-modal models. All of them aim to empower users  in complex task-solving processes (e.g., content creation, data analysis) driven by, or designed for, advanced AI models, ensuring these systems remain aligned with human value
+
+Feel free to reach out to me if you have any questions. **I am currently seeking a postdoctoral position.**
 
 <span class='anchor' id='-news'></span>
 <body>
@@ -233,12 +235,6 @@ Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI
   IEEE International Conference on Big Data (Big Data '22), 2022.
 
   [<a href="/publications/latent-road-correlations/2022-IEEEBigData-Road.pdf">pdf</a>]
-
-<span class='anchor' id='-honors-and-awards'></span>
-# 🎖 Honors and Awards
-
-- *2022-2026* Postgraduate Scholarship, SUSTech & CityU.
-- *2018* Third-class Outstanding Freshmen Scholarship, SUSTech.
 
 <span class='anchor' id='-educations'></span>
 # 📖 Educations
