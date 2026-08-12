@@ -163,7 +163,7 @@ Proceedings of the 38th Annual ACM Symposium on User Interface Software and Tech
 
 Proceedings of the ACM on Human-Computer Interaction, 9(7):1-29  (CSCW 2025), 2025.
 
-[<a href="https://dl.acm.org/doi/10.1145/3757497">ACM Digital Library</a>] | [<a href="https://arxiv.org/pdf/2508.06056">arxiv</a>] 
+[<a href="https://dl.acm.org/doi/10.1145/3757497">ACM Digital Library</a>] | [<a href="https://arxiv.org/abs/2502.09577">arxiv</a>] 
 </div>
 </div>
 
